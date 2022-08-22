@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Froala</title>
+	<atom:link href="https://froala.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://froala.com</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Aug 2022 22:06:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>https://froala.com/wp-content/uploads/2019/10/touch-icon-iphone.png</url>
+	<title>Froala</title>
+	<link>https://froala.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">199001138</site>	<item>
+		<title>Tips To Become A Productive Software Developer</title>
+		<link>https://froala.com/blog/general/tips-to-become-a-productive-software-developer/</link>
+					<comments>https://froala.com/blog/general/tips-to-become-a-productive-software-developer/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Emad Bin Abid]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 13:00:29 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Froala]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[software developer]]></category>
+		<category><![CDATA[wysiwyg]]></category>
+		<category><![CDATA[wysiwyg editor]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=46317</guid>
+
+					<description><![CDATA[<p>Everyone has the same 24 hours. The difference lies in how we spend that time. Unfortunately, our efforts to become more efficient aren&#8217;t always aided by the modern workplace. Productive programmer benefits include increased pay, office perks, peer popularity, and internal satisfaction. Additionally, there is a huge need for productive JavaScript software developers that work [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/tips-to-become-a-productive-software-developer/">Tips To Become A Productive Software Developer</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="46317" class="elementor elementor-46317">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5dbb3cc4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dbb3cc4" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-490a80b3" data-id="490a80b3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-711301bb elementor-widget elementor-widget-text-editor" data-id="711301bb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<!-- wp:paragraph -->
+<p>Everyone has the same 24 hours. The difference lies in how we spend that time. Unfortunately, our efforts to become more efficient aren&#8217;t always aided by the modern workplace. Productive programmer benefits include increased pay, office perks, peer popularity, and internal satisfaction. Additionally, there is a huge need for productive JavaScript software developers that work with good <a href="https://froala.com/wysiwyg-editor/">JavaScript rich text editors</a>. In addition to being able to code more quickly, they also produce high-quality code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It&#8217;s hard to keep up a high level of productivity all the time. Sometimes writing lines of code becomes challenging, making you anxious and unable to focus. As a junior developer, you should figure out what JavaScript rich text editor works best for you and implement your productivity hacks as soon as possible. There&#8217;s always a chance that the old habits don&#8217;t work for you, so it&#8217;s never too late to try new ones, even if you have years of coding experience. Therefore, this article will provide some advice for becoming a productive software developer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Why Does Productivity Matter?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center","id":46320,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img width="1024" height="683" class="wp-image-46320" src="https://froala.com/wp-content/uploads/2022/08/Why-Does-Productivity-Matter-1024x683.jpg" alt="Why Does Productivity Matter" srcset="https://froala.com/wp-content/uploads/2022/08/Why-Does-Productivity-Matter-1024x683.jpg 1024w, https://froala.com/wp-content/uploads/2022/08/Why-Does-Productivity-Matter-300x200.jpg 300w, https://froala.com/wp-content/uploads/2022/08/Why-Does-Productivity-Matter-768x512.jpg 768w, https://froala.com/wp-content/uploads/2022/08/Why-Does-Productivity-Matter.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>The amount of output you produce in relation to input is what is referred to as productivity. Numerous advantages come with being a productive programmer, including increased pay, office perks, increased popularity among peers, and internal satisfaction.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Above all, the company, which is constantly up against the competition, benefits from the coding engineer working faster. Therefore, the goal is to work more quickly while maintaining the standard of work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Additionally, productive engineers who find solutions to problems quickly are adored by startups. Nobody contests that a skilled programmer produces more than a mediocre one. Additionally, you must consider productivity to become a good programmer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Now, let&#8217;s look at eight tips that will help you increase your productivity.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>What are Some Tips To Becoming a More Productive Developer?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center","id":46321,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img width="1024" height="682" class="wp-image-46321" src="https://froala.com/wp-content/uploads/2022/08/What-are-Some-Tips-To-Becoming-a-More-Productive-Developer-1024x682.jpg" alt="What are Some Tips To Becoming a More Productive Developer" srcset="https://froala.com/wp-content/uploads/2022/08/What-are-Some-Tips-To-Becoming-a-More-Productive-Developer-1024x682.jpg 1024w, https://froala.com/wp-content/uploads/2022/08/What-are-Some-Tips-To-Becoming-a-More-Productive-Developer-300x200.jpg 300w, https://froala.com/wp-content/uploads/2022/08/What-are-Some-Tips-To-Becoming-a-More-Productive-Developer-768x512.jpg 768w, https://froala.com/wp-content/uploads/2022/08/What-are-Some-Tips-To-Becoming-a-More-Productive-Developer.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3>How Does Working Fewer Hours Increase Productivity?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Although it may seem strange, working fewer hours each week can increase your productivity. First, because of time pressure, you are concentrated on the task. Second, you have a stronger propensity for innovative ideas and the capacity to shatter barriers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you already have poor management practices, it motivates you to change them. Itamar Turner-Trauring covers working fewer hours while being more productive in-depth.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>How does Minimizing Distraction Increase Productivity?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You must maintain your focus because coding platforms, tools, and apps require comprehension at both the fundamental and advanced levels. It will take roughly 15 minutes to regain focus if you are sidetracked.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Software engineers deal with complex issues, making it difficult for them to refocus if they are interrupted. Benefit from maintaining quiet surroundings!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>How Does Multitasking Affect Productivity?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There is an old saying among developers. It goes something like:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>&#8220;Multitasking: Screwing up several things at once….&#8221;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you as a developer want to be more productive, then you should add this new definition to your dictionary. Instead of multitasking, you ought to focus on one thing at a time at all times. For example, when writing your piece of code for your application, avoid reviewing someone else&#8217;s code simultaneously. You are mistaken if you believe this will increase your productivity. Research has also shown that multitasking is terrible for the brain. You have to switch between tasks when you try to do several things simultaneously, which is distracting. In addition, you will discover that you need to backtrack frequently to figure out where you last left off, preventing you from being productive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>What Benefits Does Mastering Your IDE Have?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Thousands of hours are spent by developers in front of their IDE. Spending some time learning your IDE won&#8217;t be fooled because it&#8217;s one of the key tools. You must be completely familiar with it because the thousands of hours you spend in front of it will multiply any efficiency you achieve using your IDE. You need to know two things about your IDE…</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul>
+<li>Functionality</li>
+<li>Shortcuts</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Spend time learning how to use your IDE efficiently using blogs, YouTube channels, online resources, and pair programming. When you pair programs, you learn about IDE features, the functionality you were unaware of, and effective ways to complete tasks. To increase your productivity, you can install some plugins or code snippets. Snippets make it possible for you to avoid repeatedly writing the same code, and plugins like syntax highlighting improve readability and make it simpler for you to identify syntax errors. Finally, select a JavaScript rich text editor with strong functionality like <a href="https://froala.com/blog/general/reinventing-react-rich-text-editor-heres-why-you-should-reconsider/">Froala</a>, which is a beautiful WYSIWYG JavaScript editor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Why Does Automation Increase Productivity?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Have you ever seen a non-technical employee performing the same tasks repeatedly on the job in your office? For example, they might have to manually paste the data somewhere after copying it from the excel sheet. Aren&#8217;t these tedious tasks? Programmers find menial work in development to be monotonous and frustrating, and it also slows down productivity. However, suppose you perform these menial tasks daily at work. In that case, you may have forgotten that you are a developer with strong coding skills that you can use to create programs that automate the repetitive tasks you detest performing at work.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Including command lines, text editing, log mining, refactoring, building, deploying, integrating, automate your daily tasks. If you <a href="https://froala.com/blog/general/turbocharge-web-test-automation-with-this-powerful-tool/">automate the repetitive tasks</a> that take several hours to complete in the beginning, you can save a lot of time. Any well-known scripting language, such as Ruby, Python, or Javascript, can be learned to write automation scripts. Although initially intimidating, this ability will benefit you in the long run. By releasing them from these monotonous and repetitive tasks, you can benefit others while also saving yourself time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>How Does Continuously Refactoring Code and Writing Code Documentation Increase Productivity?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You might not consider refactoring code to be a useful task. After all, it doesn&#8217;t give the project any new features or functionality. But that is a false assumption. For example, you can read methods more quickly by refactoring the code. Additionally, it helps to maintain the code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Refactoring the code can save everyone&#8217;s time, including the engineer who is maintaining it. In addition, you can increase your project&#8217;s overall productivity by creating code documentation. It would be best if you always attempted to do it because it has a long-term benefit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Why Shouldn’t You Optimize Code Prematurely?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The coding community has a serious problem with premature optimization. The need for optimization arises in real-time projects. For a better user experience, certification for publication, etc., other projects, like games, also need optimization to a certain extent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But that doesn&#8217;t mean you should begin optimizing your game while it&#8217;s still in the early stages. Once you implement a sizable portion of functionality, optimization is a good idea. You will be able to avoid unnecessary work and remain productive thanks to the late start.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>How Does Learning New Skills and Working on New Projects Increase Productivity?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Once you land a job as a developer, it&#8217;s simple to lose the habit of learning new things. You become accustomed to using technologies at work. Your enthusiasm wanes, and you might struggle later in your career. Instead, work on a few side projects or build a website with <a href="https://froala.com/blog/editor/how-to-use-rich-text-editor-in-react-js/">React JS</a> and broaden your knowledge. Additionally, it will keep your brain active. Engineers occasionally become stale in using a single project or the same technologies and equipment. Because of this, they have a boring and frustrating jobs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Being more productive on subsequent projects is a benefit of working on a side project or picking up a new skill. You can also read books while traveling, work at the gym, or listen to podcasts while driving. In addition, you become more creative and generate some fresh ideas as a result of learning new skills.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Are you Ready to Become a Productive Software Developer?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:image {"align":"center","id":46322,"sizeSlug":"large","linkDestination":"none"} -->
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img width="1024" height="683" class="wp-image-46322" src="https://froala.com/wp-content/uploads/2022/08/Are-you-Ready-to-Become-a-Productive-Software-Developer-1024x683.jpg" alt="Are you Ready to Become a Productive Software Developer" srcset="https://froala.com/wp-content/uploads/2022/08/Are-you-Ready-to-Become-a-Productive-Software-Developer-1024x683.jpg 1024w, https://froala.com/wp-content/uploads/2022/08/Are-you-Ready-to-Become-a-Productive-Software-Developer-300x200.jpg 300w, https://froala.com/wp-content/uploads/2022/08/Are-you-Ready-to-Become-a-Productive-Software-Developer-768x512.jpg 768w, https://froala.com/wp-content/uploads/2022/08/Are-you-Ready-to-Become-a-Productive-Software-Developer.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Practicing mindfulness is the most crucial thing to increase your coding productivity. Coding is very mentally taxing, and you have to teach your computer how to do things for you, which is interesting but challenging for developers. Being consistent in your work requires a lot of effort and patience. Don&#8217;t push yourself too hard at first; productivity in programming comes with time and experience. With careful preparation, execution, and practice, you will improve as a developer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://froala.com/wysiwyg-editor/download/">Choosing a good editor is paramount to becoming a productive Software Developer. Click here and check out Froala &#8211; the best WYSIWYG HTML editor on the market</a></p>
+<!-- /wp:paragraph -->					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		<p>The post <a rel="nofollow" href="https://froala.com/blog/general/tips-to-become-a-productive-software-developer/">Tips To Become A Productive Software Developer</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/general/tips-to-become-a-productive-software-developer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">46317</post-id>	</item>
+		<item>
+		<title>Integrating a WYSIWYG Editor with a Reliable and Lightning Fast File Uploading System</title>
+		<link>https://froala.com/blog/general/integrating-froala-wysiwyg-editor-with-filestack/</link>
+					<comments>https://froala.com/blog/general/integrating-froala-wysiwyg-editor-with-filestack/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Mostafa Yousef]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2022 17:19:31 +0000</pubDate>
+				<category><![CDATA[Editor]]></category>
+		<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=46740</guid>
+
+					<description><![CDATA[<p>With more than a billion files uploaded to the web daily, it’s important to include a reliable, fast, secure, and intelligent file upload system in your application. Imagine you are using a WYSIWYG editor to create a web page or an email, and you are about to finish what you are doing. You just need [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/integrating-froala-wysiwyg-editor-with-filestack/">Integrating a WYSIWYG Editor with a Reliable and Lightning Fast File Uploading System</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>With more than a billion files uploaded to the web daily, it’s important to include a reliable, fast, secure, and intelligent file upload system in your application.</p>
+<p>Imagine you are using a WYSIWYG editor to create a web page or an email, and you are about to finish what you are doing. You just need to upload one last image or attach an important file. You click on the insert file button, select your file, and click on the upload button. Suddenly, the uploading process is stopped, and the upload fails.  We have all gone through this several times, and we know just how annoying it is. Today, we will learn about the reliable Filestack file uploading service and how to integrate it with the Froala editor. This will not just add more reliability to your editor but also a complete and powerful upload service to your editor. It will led to a seamless uploading experience that your users will enjoy.</p>
+<p>&nbsp;</p>
+<h2>Why Filestack?</h2>
+<p>The default uploading system included in most WYSIWYG editors handles uploading files using basic methods to just display the file inside the editor. In this setup, it’s your task to handle saving the file onto your server. Most of these systems aren’t reliable enough to be used in poor network conditions or in bad quality of service conditions.</p>
+<p>The top <a href="https://froala.com/wysiwyg-editor/">WYSIWYG editor</a> on the G2 for more than two years, Froala WYSIWYG editor, has one of the best file managers and uploading features. Moreover, it comes with free SDK libraries that support many server-side languages. These SDKs help you handle saving and deleting files to and from your server quickly and easily. Nevertheless, by integrating Filestack with Froala, you will get an even more powerful file uploading service.</p>
+<h3><span style="color: #0098f7;"><b>Filestack Intelligent Ingestion</b></span></h3>
+<p>Filestack introduces the<a href="https://blog.filestack.com/product-updates/filestack-intelligent-ingestion-the-worlds-most-reliable-file-uploading-technology/"> Intelligent Ingestion</a> (FII) feature. It intelligently detects network conditions, device type, and browser then makes automated decisions on how best to chunk a file to ensure it uploads successfully. Tests show that Filestack is more reliable than other uploading services like Google Drive, Plupload, and jQuery File Uploader.</p>
+<h3><span style="color: #0098f7;"><b>Filestack Content Ingestion</b></span></h3>
+<p>Filestack guarantees up to 10x faster uploads. Unlike the other uploading services, <a href="https://blog.filestack.com/product-updates/filestack-launches-content-ingestion-network/">Filestack’s Content Ingestion Network</a> (CIN) uploads your file in two stages:</p>
+<ol>
+<li aria-level="1">The file is stored in the nearest Filestack Ingestion point-of-presence (POP), and a file URL (<code>filelink</code>) is generated almost immediately for your use.</li>
+<li aria-level="1">While you access the file, it is uploaded asynchronously to its final destination. A webhook is sent to you, notifying you that the file is stored properly, and your <code>filelink</code> automatically adjusts to point to the permanent cloud storage location.</li>
+</ol>
+<p>This means that you do not have to wait until the file is stored in its final destination before using it in your application.</p>
+<h3><span style="color: #0098f7;"><b>Filestack Integrated Storage Sources</b></span></h3>
+<p>It is worth mentioning that Filestack allows you to upload files from<a href="https://www.filestack.com/integrations/"> over 20 sources</a> without any additional lines of code. When it comes to storing your files on the Filestack cloud storage service, all you need to do is set the <a href="https://filestack.github.io/filestack-js/interfaces/pickerstoreoptions.html"><code>storeTo</code></a> parameter of the picker options.</p>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">//Code Example
+const client = filestack.init(YOUR_API_KEY);
+
+const options = {
+   storeTo: {
+     location: 'azure',
+     path: '/site_uploads/'
+   }
+};
+
+//Open file picker
+client.picker(options).open();</pre>
+</div>
+<h3><span style="color: #0098f7;"><b>Filestack Processing Engine</b></span></h3>
+<p>With the Filestack processing engine, you can transform various types of files, including images, documents, and videos. For instance, users will be able to apply filters, adjust image sizes, and perform many other image transformations. This will provide them with a rich in-app image editing experience.</p>
+<h3><span style="color: #0098f7;"><b>Filestack Intelligence</b></span></h3>
+<p>And we can’t ignore the intelligence you will add to your application when you integrate it with Filestack. With features like:</p>
+<ul>
+<li aria-level="1">Copyright Detection</li>
+<li aria-level="1">Phishing Detection</li>
+<li aria-level="1">Image Safe for Work Detection (SFW)</li>
+<li aria-level="1">Video SFW</li>
+<li aria-level="1">Virus Detection</li>
+</ul>
+<p>You can detect any suspicious or illegal content and block it before it is stored on your server.</p>
+<p>If your business requires adding tags to uploaded images or videos, integrating Filestack into your application is your best bet. The “Image Tagging” and “Video Tagging” Filestack features accurately detect related tags in your image or video. After detecting the tags, you can use them to automatically group and classify your files.</p>
+<h3><span style="color: #0098f7;"><b>Filestack Workflows</b></span></h3>
+<p>With Filestack, you can set up your desired logic through a simple user interface and then apply it to the uploaded files by setting the <code>workflow</code> API option. You don’t need to be a programmer to use it.</p>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">const client = filestack.init(YOUR_API_KEY);
+
+//set your workflow
+const options = {
+   workflows: [YOUR_WORKFLOW_ID]
+};
+
+//open the file picker
+picker = client.picker(options).open();</pre>
+</div>
+<h3></h3>
+<h3><span style="color: #0098f7;"><b>And Much More..</b></span></h3>
+<p>Filestack has hundreds of features that you will definitely find useful in your application. We can’t cover all of them in a single blog post, so take some time to view all of<a href="https://www.filestack.com/features/"> Filestack’s features here</a>.</p>
+<p>&nbsp;</p>
+<div class="elementor-609 elementor-609-new-release">
+<div class="elementor-column elementor-top-column elementor-element" data-id="17b1f8a" data-element_type="column">
+<h3 class="cta-sec-header">Many of Filestack’s features are available for free. Take advantage of this right away.</h3>
+</div>
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-207c5cb elementor-align-center elementor-widget elementor-widget-button" data-id="2ca4db1" data-element_type="widget" data-widget_type="button.default">
+<p><a class="start-editing-inline cta-sec-button elementor-button-link elementor-button elementor-size-sm" role="button" href="https://dev.filestack.com/signup/free/"><br />
+<span class="elementor-button-content-wrapper"><br />
+<span class="elementor-button-text ">Start With a Free Account Now</span><br />
+</span><br />
+</a></p>
+</div>
+</div>
+</div>
+<h2></h2>
+<h2></h2>
+<h2>How do I integrate Filestack with Froala?</h2>
+<p>The modular architecture of the Froala editor makes it easy to extend its functionality through plugins. Follow the steps below to create a custom plugin that uses Filestack’s file picker to insert images into the Froala WYSIWYG editor:</p>
+<ul>
+<li aria-level="1">Use <a href="https://froala.com/wysiwyg-editor/docs/concepts/custom/plugin/">the custom plugin guide</a> to create a new Froala plugin called “filestack”</li>
+<li aria-level="1">Add plugin options to allow users to enter their Filestack API and their desired Filestack options.</li>
+</ul>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">// Add options for your plugin.
+FroalaEditor.DEFAULTS = Object.assign(FroalaEditor.DEFAULTS, {
+
+    //Allow users to set their Filestack options 
+    filestackOptions: {
+
+       displayMode: 'overlay',
+
+       uploadInBackground: false,
+
+       //accept images only since we are using Filestack for inserting images to the editor.
+       accept: ["image/*"],
+    },
+
+    //Allow users to enter their Filestack API
+    filestackAPI: '',
+});</pre>
+</div>
+<ul>
+<li aria-level="1">Inside the plugin initialization method, verify that the user entered the Filestack API correctly</li>
+</ul>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">//Verify that the user entered the Filestack API credentials
+if(editor.opts.filestackAPI === 0){
+  alert("The Filestack plugin is not active! You should set the filestackAPI option correctly.");
+  return false;
+}</pre>
+</div>
+<ul>
+<li aria-level="1">We need to create a button that will open the Filestack file picker. Create a custom button following <a href="https://froala.com/wysiwyg-editor/docs/concepts/custom/button/">this guide</a><b>.</b></li>
+</ul>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">/*First, create icon for the button. The icon will be the Filestack logo */
+FroalaEditor.DefineIcon('filestackIcon', {SRC: 'https://i.ibb.co/YX5xjzw/Filestack-logo.png', ALT: 'Open Filestack file picker', template: 'image'});
+
+/*Create a button with the name 'openFilePicker' */
+FroalaEditor.RegisterCommand('openFilePicker', {
+
+    type: 'button',
+    icon: 'filestackIcon',
+    title: 'Open Filestack File Picker',
+        
+    //Set a function to be called when the button clicked
+    callback: function callback() {
+    
+    /* This button will be used to insert new images or to replace an existing image
+    ** in case of doing a replace action, save the selected image so we can replace it later.
+    */ 
+    var selectedImage = this.image.get();
+
+    //Init Filestack
+    var client = filestack.init(this.opts.filestackAPI);
+
+    /*
+    ** Extend the filestack options to trigger the filestack plugin onUploadDone callback once the image is uploaded 
+    ** We will define the onUploadDone method on the custom filestack plugin in the next step.
+    */
+    Object.assign(this.opts.filestackOptions, {
+        //Set displayMode to 'overlay' to open the file picker with the minimum setup. Other modes require more steps to get the file picker visible when the openFilePicker button is clicked.
+        displayMode: 'overlay',
+        onUploadDone: (res) =&gt; {
+          //Save the caret position, to be able to insert images in the caret position
+          this.selection.save();
+ 
+          //Trigger the filestack plugin onUploadDone function
+          this.filestack.onUploadDone(res, selectedImage);
+        },
+    });
+
+    // Open file picker
+    client.picker(this.opts.filestackOptions).open();
+
+   }
+
+   plugin: 'filestack'
+});</pre>
+</div>
+<ul>
+<li aria-level="1">On the Filestack plugin, add the <code>onUploadDone</code> method to be executed when the image is uploaded successfully through Filestack</li>
+</ul>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">function onUploadDone(res, selectedImage){
+
+    //If an image was selected beforehand, remove it first.
+    if( typeof selectedImage !== "undefined" ){
+        editor.image.remove(selectedImage);
+    }
+
+    //Insert the new images into the editor
+    if( typeof res.filesUploaded !== "undefined" ){
+      for (const file of res.filesUploaded) {
+           //Restore the caret position
+           editor.selection.restore();
+
+           //Insert the uploaded image in the editor
+           editor.image.insert(file.url, false);
+       }
+    }
+}</pre>
+</div>
+<ul>
+<li aria-level="1">Don’t forget to make the <code>onUploadDone</code> method publicly accessible</li>
+</ul>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;javascript&quot;,&quot;mime&quot;:&quot;text/javascript&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">  return {
+            _init: _init,
+            onUploadDone: onUploadDone,
+        }</pre>
+</div>
+<ul>
+<li aria-level="1">In the HTML page:
+<ul>
+<li aria-level="2">Include Froala stylesheet and script</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li aria-level="2">Include Filestack script</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li aria-level="2">Include the new Froala filestack plugin script</li>
+</ul>
+</li>
+</ul>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;mime&quot;:&quot;text/html&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+
+    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
+
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+
+    &lt;title&gt;Froala-Filestack integration demo&lt;/title&gt;
+
+    &lt;!-- Froala Editor Stylesheet--&gt;
+    &lt;link href='https://cdn.jsdelivr.net/npm/froala-editor@latest/css/froala_editor.pkgd.min.css' rel='stylesheet' type='text/css' /&gt;
+&lt;/head&gt;
+
+&lt;body&gt;
+
+    &lt;!--Editor element--&gt;
+    &lt;div id="editor"&gt;&lt;/div&gt;
+
+    &lt;!-- Froala Editor JS--&gt;
+    &lt;script type='text/javascript' src='https://cdn.jsdelivr.net/npm/froala-editor@latest/js/froala_editor.pkgd.min.js'&gt;&lt;/script&gt;
+
+    &lt;!-- Filestack JS--&gt;
+    &lt;script src="http://static.filestackapi.com/filestack-js/3.x.x/filestack.min.js" crossorigin="anonymous"&gt;&lt;/script&gt;
+
+    &lt;!-- Froala filestack plugin JS--&gt;
+    &lt;script type='text/javascript' src='froala-filestack-plugin.js'&gt;&lt;/script&gt;
+
+&lt;/body&gt;</pre>
+</div>
+<ul>
+<li aria-level="1">Finally, initialize Froala editor considering the following:
+<ul>
+<li aria-level="2">Include Froala’s Filestack plugin in the <code>pluginsEnabled</code> option</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li aria-level="2">Include the new <code>openFilePicker</code> button in the <code>toolbarButtons</code> option and the <code>imageEditButtons</code> option</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li aria-level="2">Set <code>filestackAPI</code> option to your Filestack API. <a href="https://dev.filestack.com/signup/free/">To get your Filestack API, create a free Filestack account</a>.</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li aria-level="2">(optional) Set <code>filestackOptions</code> option based on your preferences</li>
+</ul>
+</li>
+</ul>
+<div class="wp-block-codemirror-blocks code-block alignfull">
+<pre class="CodeMirror" data-setting="{&quot;mode&quot;:&quot;htmlmixed&quot;,&quot;mime&quot;:&quot;text/html&quot;,&quot;theme&quot;:&quot;duotone-light&quot;,&quot;lineNumbers&quot;:false,&quot;lineWrapping&quot;:true,&quot;styleActiveLine&quot;:false,&quot;readOnly&quot;:true,&quot;align&quot;:&quot;full&quot;}">&lt;script&gt;
+
+  // init Froala Editor
+  new FroalaEditor('#editor',{
+
+            //Add openfilepicker button to the edit image popup buttons
+            imageEditButtons: ['openFilePicker', 'imageReplace', 'imageAlign', 'imageCaption', 'imageRemove', '|', 'imageLink', 'linkOpen', 'linkEdit', 'linkRemove', '-', 'imageDisplay', 'imageStyle', 'imageAlt', 'imageSize'],
+
+            //Add openfilepicker button to the toolbar buttons
+            toolbarButtons: {
+
+               'moreText': {
+                  'buttons': ['bold', 'italic', 'underline', 'strikeThrough', 'subscript', 'superscript', 'fontFamily', 'fontSize', 'textColor', 'backgroundColor', 'inlineClass', 'inlineStyle', 'clearFormatting']
+                },
+                'moreParagraph': {
+                  'buttons': ['alignLeft', 'alignCenter', 'formatOLSimple', 'alignRight', 'alignJustify', 'formatOL', 'formatUL', 'paragraphFormat', 'paragraphStyle', 'lineHeight', 'outdent', 'indent', 'quote']
+                },
+                'moreRich': {
+                   'buttons': ['openFilePicker', 'insertLink', 'insertImage', 'insertVideo', 'insertTable', 'emoticons', 'fontAwesome', 'specialCharacters', 'embedly', 'insertFile', 'insertHR']
+                },
+                'moreMisc': {
+                   'buttons': ['undo', 'redo', 'fullscreen', 'print', 'getPDF', 'spellChecker', 'selectAll', 'html', 'help'],
+                   'align': 'right',
+                   'buttonsVisible': 2
+                }
+            },
+
+            //Add filestack plugins to the enabled plugins array
+            pluginsEnabled: ['filestack', 'image', 'link'],
+
+            /*
+            ** To get your Filestack API, create a free Filestack account 
+            ** https://dev.filestack.com/signup/free/
+            */
+            filestackAPI: "**************",
+   });
+
+&lt;/script&gt;</pre>
+</div>
+<p>Now, you will be able to upload images through Filestack and insert them in the Froala editor.</p>
+<p>&nbsp;</p>
+<div id="editordd"></div>
+<h3><span style="color: #0098f7;"> </span><br />
+<span style="color: #0098f7;">Automatically add captions to your images</span></h3>
+<p>You can use Filestacks&#8217; artificial intelligence to automate many helpful tasks before inserting the images into the WYSIWYG editor. For example, in the following demo, we use Filestack to detect a related caption for the uploaded image and then insert the detected caption below the image automatically.</p>
+<div id="caption-editor"></div>
+<p>&nbsp;</p>
+<p>By Integrating Filestack with Froala, you will add a powerful uploading system to your WYSIWYG editor. It will make your editor even more robust with features ranging from advanced image processing to artificial intelligence-based processing. We assure you that with this integration, you can attend to every possible in-editor uploading need of your users. Besides, it’s free. So why not try it now?<br />
+<a class="start-editing-inline cta-sec-button elementor-button-link elementor-button elementor-size-sm" role="button" href="https://dev.filestack.com/signup/free/" target="_blank" rel="noopener"><br />
+<span class="elementor-button-content-wrapper"><br />
+<span class="elementor-button-text ">Sign Up Filestack Free</span><br />
+</span><br />
+</a></p>
+<hr>
+<p></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/integrating-froala-wysiwyg-editor-with-filestack/">Integrating a WYSIWYG Editor with a Reliable and Lightning Fast File Uploading System</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/general/integrating-froala-wysiwyg-editor-with-filestack/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">46740</post-id>	</item>
+		<item>
+		<title>What Do Developers Expect From WordPress Content Editors?</title>
+		<link>https://froala.com/blog/general/what-do-developers-expect-from-wordpress-content-editors/</link>
+					<comments>https://froala.com/blog/general/what-do-developers-expect-from-wordpress-content-editors/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Md. Ehsanul Haque Kanan]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2022 13:00:56 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[content]]></category>
+		<category><![CDATA[editor]]></category>
+		<category><![CDATA[html editor]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[wysiwyg editor]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=46160</guid>
+
+					<description><![CDATA[<p>WordPress content editors help you effortlessly modify the content of your site. You can change the format of the text. Also, you can structure the content with subheadings. Besides, the editors allow you to easily add images and videos. As a developer, you expect the WordPress text editor to be very easy to use.  It [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/what-do-developers-expect-from-wordpress-content-editors/">What Do Developers Expect From WordPress Content Editors?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>WordPress content editors help you effortlessly modify the content of your site. You can change the format of the text. Also, you can structure the content with subheadings. Besides, the editors allow you to easily add images and videos. As a developer, you expect the <a href="https://froala.com/wysiwyg-editor/" target="_blank" rel="noopener">WordPress text editor</a> to be very easy to use.  It should have an intuitive interface. Also, you want to quickly integrate into your site. You don’t want to spend hours just for the implementation. Can the WordPress content editor truly meet your expectation? In this post, you will find all the details,</p>
+<h2><strong>What are WordPress content editors? </strong></h2>
+<p>WordPress content editors are tools for editing content on your site. You can use them for a variety of functions, like formatting text, changing alignment, and adding images. Also, you can insert links and embed videos. You can visually perform all these functions. As a result, you don’t have to write any code. It can make the lives of non-technical users a lot easier.</p>
+<h2><strong>What do you expect from WordPress content editors?</strong></h2>
+<p>As a developer, you want the WordPress content editor to be very user-friendly. You want it to deliver an amazing editing experience. Also, the content editor should be very easy to integrate into WordPress. Besides, it needs to fit your site’s theme. There are more things that you expect from the editor. Let’s find them out.</p>
+<h3><strong>Does the WordPress content editor provide an effortless editing experience?</strong></h3>
+<p>As a developer, you expect the editor to have a clean design and user-friendly interface. It will help your site users easily find all the necessary tools. As a result, it can deliver an effortless editing experience.</p>
+<p>A great WordPress content editor, like Froala, comes with a beautiful design. You will fall in love with it at the very first sight. All of its tools are well organized. Hence, you can easily find the feature that you are looking for. It delivers a great editing experience while enhancing your productivity. It’s one of the main things that you expect from a great content editor. And Froala can truly meet your expectation in terms of enhancing productivity and user experience.</p>
+<p><a href="https://froala.com/blog/editor/whats-the-best-wordpress-content-editor-in-2022/">Read: What&#8217;s The Best WordPress Content Editor</a></p>
+<h3><strong>Does it support RTL typing support for Arabic or Hebrew?</strong></h3>
+<p>The English language is read from left to right. However, some languages, like Arabic, Hebrew, and Farsi, are read in the opposite direction. That’s why you need to find a WordPress content editor that supports RTL typing. It will allow your site users to conveniently type in Arabic or Hebrew.</p>
+<p>Froala offers full RTL support. Once you select Arabic or Farsi, the toolbar automatically shifts and adjusts itself. As a result, typing in RTL languages will feel natural. In this way, it can deliver a great editing experience for people of all languages.</p>
+<p>Once you enable the RTL mode, Froala will look like this:</p>
+<p><img class="alignnone wp-image-46161 size-full" src="https://froala.com/wp-content/uploads/2022/08/WordPress-Content-Editors-Once-RTL-mode-is-enabled-Froala-looks-like-this.png" alt="WordPress Content Editors - Once RTL mode is enabled, Froala looks like this" width="1064" height="222" srcset="https://froala.com/wp-content/uploads/2022/08/WordPress-Content-Editors-Once-RTL-mode-is-enabled-Froala-looks-like-this.png 1064w, https://froala.com/wp-content/uploads/2022/08/WordPress-Content-Editors-Once-RTL-mode-is-enabled-Froala-looks-like-this-300x63.png 300w, https://froala.com/wp-content/uploads/2022/08/WordPress-Content-Editors-Once-RTL-mode-is-enabled-Froala-looks-like-this-1024x214.png 1024w, https://froala.com/wp-content/uploads/2022/08/WordPress-Content-Editors-Once-RTL-mode-is-enabled-Froala-looks-like-this-768x160.png 768w" sizes="(max-width: 1064px) 100vw, 1064px" /></p>
+<h3><strong>Can I change the editor’s theme to fit my website?</strong></h3>
+<p>Themes dictate the design of your website. It has a huge impact on your site’s look and the way it displays content. Any inconsistency in the editor’s color pallet can be very frustrating for your users. Nobody likes to use a tool that is inconsistent with the site’s design.</p>
+<p>That’s why it’s very important to find a WordPress content editor that offers quick theme customization. It will enable you to effortlessly change the tool’s theme to match the color palette of your site. With Froala, you can perform the customization with just a few lines of code. Here are the steps:</p>
+<h4><strong>How can I change the Froala editor’s theme to fit my website?</strong></h4>
+<p>1. Head to your HTML file. Then add a container for the dark theme.</p>
+<pre>&lt;div id="eg-dark-theme"&gt;
+  Dark Theme
+&lt;/div&gt;</pre>
+<p>2. Next, go to the CSS file. Add this code to include the dark theme files.</p>
+<pre>&lt;link href="../css/themes/dark.min.css" rel="stylesheet" type="text/css" /&gt;</pre>
+<p>3. Finally, head to your JavaScript file. Insert these lines:</p>
+<pre>&lt;script&gt;
+  new FroalaEditor('div#eg-dark-theme', {
+    // Set dark theme name.
+    theme: 'dark',
+    zIndex: 2003
+  })
+&lt;/script&gt;</pre>
+<p>Once you are done, the editor will look like this:</p>
+<p><img class="alignnone wp-image-46162 size-full" src="https://froala.com/wp-content/uploads/2022/08/Once-you-are-done-the-editor-will-look-like-this.png" alt="Once you are done, the editor will look like this" width="848" height="175" srcset="https://froala.com/wp-content/uploads/2022/08/Once-you-are-done-the-editor-will-look-like-this.png 848w, https://froala.com/wp-content/uploads/2022/08/Once-you-are-done-the-editor-will-look-like-this-300x62.png 300w, https://froala.com/wp-content/uploads/2022/08/Once-you-are-done-the-editor-will-look-like-this-768x158.png 768w" sizes="(max-width: 848px) 100vw, 848px" /></p>
+<h3><strong>Does the WordPress content editor support the sticky toolbar?</strong></h3>
+<p>As the name suggests, the sticky toolbar remains at the top of the screen. It contains all the necessary tools. Hence, you can get quick access to all the essential features.</p>
+<p>Froala supports the sticky toolbar. Once enabled, it looks like this:</p>
+<p><img class="alignnone wp-image-46163 size-full" src="https://froala.com/wp-content/uploads/2022/08/Once-enabled-it-looks-like-this.png" alt="Once enabled, it looks like this" width="1247" height="673" srcset="https://froala.com/wp-content/uploads/2022/08/Once-enabled-it-looks-like-this.png 1247w, https://froala.com/wp-content/uploads/2022/08/Once-enabled-it-looks-like-this-300x162.png 300w, https://froala.com/wp-content/uploads/2022/08/Once-enabled-it-looks-like-this-1024x553.png 1024w, https://froala.com/wp-content/uploads/2022/08/Once-enabled-it-looks-like-this-768x414.png 768w" sizes="(max-width: 1247px) 100vw, 1247px" /></p>
+<p>If you scroll down the text, the toolbar sticks to the top of the display. As a result, you can get quick access to the necessary tools. It allows you to effortlessly edit the content.</p>
+<p>Activating the sticky toolbar is very simple in Froala. You just have to follow these steps:</p>
+<h4><strong>How can I enable the sticky toolbar in Froala?</strong></h4>
+<p>1. Go to your HTML file. Then create a container for the Froala editor and add this code:</p>
+<pre>&lt;div id="froala-editor"&gt;
+  &lt;p&gt;In this example, when you scroll down, the rich text editor's toolbar will scroll along with the page and it will no longer be visible at the top of the page.&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Dummy text to enable scroll.&lt;/strong&gt;&lt;/p&gt;
+  &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ornare lorem ut&lt;/p&gt;
+&lt;/div&gt;</pre>
+<p>2. Next go to your JavaScript file and insert these lines:</p>
+<pre>&lt;script&gt;
+  new FroalaEditor('div#froala-editor', {
+    toolbarSticky: true
+  })
+&lt;/script&gt;</pre>
+<p>That’s it!</p>
+<p>Make sure to set the <strong>toolbarSticky</strong> field to <strong>true</strong>. Otherwise, the toolbar will not stay at the top of the screen.</p>
+<h3><strong>Can I easily integrate the WordPress content editor into my website?</strong></h3>
+<p>Easy integration is another important factor. You don’t want to spend hours implementing the editor into your WordPress site. It will reduce your productivity. That’s why you need to find a WordPress content editor that you can integrate in just a few minutes. It will make your life a lot easier.</p>
+<p>Froala is very easy to implement into WordPress. Simply follow these steps:</p>
+<ul>
+<li>Go to the Plugins page inside the WordPress admin area.</li>
+<li>Activate the Froala plugin.</li>
+</ul>
+<p>That’s it! Now, Froala will act as the default HTML editor on your WordPress.</p>
+<p>Once activated, you can use Froala from your WordPress admin area. However, if you want to use it on the front end, you have to go through additional steps. You can find the details in this post:</p>
+<p><a href="https://froala.com/blog/general/easily-integrate-the-powerful-wysiwyg-froala-html-editor-into-wordpress/" target="_blank" rel="noopener">Easily Integrate the Powerful WYSIWYG Froala HTML Editor into WordPress</a></p>
+<h2><strong>Can Froala really meet my expectation?</strong></h2>
+<p>Froala is one of the best WordPress content editors of 2022. It comes with a beautiful and intuitive design. As a result, it can deliver a great editing experience. Also, Froala is super-fast. It can initialize in less than 30 seconds. Besides, Froala supports RTL mode. Hence, typing in Arabic, Hebrew, and Farsi feels natural. On top of that, it is very easy to implement into WordPress. The integration process is very simple. Therefore, Froala can truly meet your expectation as a developer.</p>
+<p><a href="https://froala.com/wysiwyg-editor/download/" target="_blank" rel="noopener">Froala is a powerful WYSIWYG editor. It equips your applications with rich text editing capabilities. Try it now for free.</a></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/what-do-developers-expect-from-wordpress-content-editors/">What Do Developers Expect From WordPress Content Editors?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/general/what-do-developers-expect-from-wordpress-content-editors/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">46160</post-id>	</item>
+		<item>
+		<title>Is Copy And Paste To Rich Text WYSIWYG Editors Problematic?</title>
+		<link>https://froala.com/blog/general/is-copy-and-paste-to-rich-text-wysiwyg-editors-problematic/</link>
+					<comments>https://froala.com/blog/general/is-copy-and-paste-to-rich-text-wysiwyg-editors-problematic/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Sidra]]></dc:creator>
+		<pubDate>Thu, 11 Aug 2022 13:00:24 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Best WYSIWYG Editor]]></category>
+		<category><![CDATA[Froala rich text editor]]></category>
+		<category><![CDATA[Froala WYSIWYG editor]]></category>
+		<category><![CDATA[rich text editor]]></category>
+		<category><![CDATA[WYSIWYG html editors]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=46172</guid>
+
+					<description><![CDATA[<p>A rich text editor is a powerful tool that allows developers to quickly create and modify web content. You can use these editors to format text, insert images and videos, add links, and more without writing any code. This is what beginners with little knowledge of HTML like the most about a JavaScript rich text [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/is-copy-and-paste-to-rich-text-wysiwyg-editors-problematic/">Is Copy And Paste To Rich Text WYSIWYG Editors Problematic?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A rich text editor is a powerful tool that allows developers to quickly create and modify web content. You can use these editors to format text, insert images and videos, add links, and more without writing any code. This is what beginners with little knowledge of HTML like the most about a <a href="https://froala.com/wysiwyg-editor/">JavaScript rich text editor</a>. Even professional developers use these editors to speed up web content development. However,  many developers find it challenging to copy and paste content correctly from a third-party tool like MS Word to a rich text editor.</p>
+<p>In this article, we&#8217;ll discuss why developers face issues with pasting content from MS Word to rich text editors. We&#8217;ll also show you how you can resolve these issues.</p>
+<h2><strong>Why Should You Use A Rich Text Editor?</strong></h2>
+<p>A rich text editor lets you create properly formatted websites with images, videos, tables, links, and more. It is also called a WYSIWYG JavaScript editor as it shows you how your content would appear on a web browser. These editors help developers create and edit web content quickly as they don’t have to write even a single line of code. However,  these editors also have a code view mode that lets you see and edit the HTML of your content. This feature is useful for expert developers with a solid understanding of HTML.</p>
+<p>A good WYSIWYG editor comes with almost all the tools and features you would find in a word processor like MS Word. For example, you can use different fonts, font sizes, and font colors, different text alignments, and more to format text. Similarly, you can insert and format rich text media like images and videos.</p>
+<h2><strong>Why Do Developers Find It Difficult To Copy and Paste Content To Rich Text Editors?</strong></h2>
+<p>While a rich-text editor JS is similar to a word processor, it isn&#8217;t exactly a word processor. That&#8217;s why many developers find it difficult to copy and paste content from external sources to a rich text editor. This is because word processors like MS Word aren’t made for creating website content. For this reason, when you copy and paste content from these sources, your website can have invalid HTML markup. And even when there is valid markup, it is not usually not properly formatted for your website.</p>
+<p>In other words, the content and styling that look stunning in MS Word would probably look very poor on your website when you copy and paste it. Your content might look fine when you&#8217;re publishing it, but wrong formatting can cause trouble later.</p>
+<p>Let’s say we want to write the following line in our website using a Website HTML editor:</p>
+<p><strong>Froala</strong> is the <em>best rich text editor</em></p>
+<p>Here is the properly formatted HTML code for the website:</p>
+<p><img class="alignnone size-full wp-image-46175" src="https://froala.com/wp-content/uploads/2022/08/a-1.png" alt="Properly formatted HTML code" width="602" height="107" srcset="https://froala.com/wp-content/uploads/2022/08/a-1.png 602w, https://froala.com/wp-content/uploads/2022/08/a-1-300x53.png 300w" sizes="(max-width: 602px) 100vw, 602px" /></p>
+<p>And here is the code you would get when you copy the text from MS word and paste it into a WYSIWYG editor:</p>
+<p><img class="alignnone size-full wp-image-46176" src="https://froala.com/wp-content/uploads/2022/08/b.png" alt="HTML code when you copy and paste content from MS Word to a rich text editor without cleaning the syntax" width="746" height="153" srcset="https://froala.com/wp-content/uploads/2022/08/b.png 746w, https://froala.com/wp-content/uploads/2022/08/b-300x62.png 300w" sizes="(max-width: 746px) 100vw, 746px" /></p>
+<p>You can see how messed up the above code is. The hidden styling in your text creates problems when you copy and paste content. So what&#8217;s the solution? Read on to learn how you can solve copy and paste issues.</p>
+<h2><strong>How To Copy and Paste Content From MS Word To A Rich Text Editor Correctly?</strong></h2>
+<h3><strong>Paste As Plain Text</strong></h3>
+<p>Since the hidden content styling is what creates issues in markup when you copy and paste content, you can resolve these issues by removing the styling. One way to do this is to <strong>paste your content as plain text </strong>in your rich text editor. Doing this will remove all the hidden syntax as well as all the formatting. As a result, developers have to format the content again and reapply styling. However, you’ll have properly formatted content for your website.</p>
+<h3><strong>Clean The Unnecessary Code</strong></h3>
+<p>Some advanced rich text editors also come with an option to clean all the unnecessary code while keeping the styling. This is a time-saving feature as developers don&#8217;t have to style their content again. However, sometimes there can be missing styling in the rich text editor, and developers would have to reapply it.</p>
+<h2><strong>Which WYSIWYG Editor Should You Use?</strong></h2>
+<p>If you’re looking for the <a href="https://froala.com/blog/general/10-quick-tips-about-the-best-wysiwyg-html-editor/">best WYSIWYG HTML editor</a>, Froala is definitely the right choice. Froala is a lightweight JavaScript rich text editor that offers a wide range of features to create engaging web content. Thousands of businesses and developers worldwide use Froala rich text editor to create functional websites. No wonder, Froala is the number one rich text editor on G2.</p>
+<p>Here is why you should use Froala for web content development:</p>
+<h3><strong>Can I Copy Content From MS Word and Paste It As Plain Text In Froala? </strong></h3>
+<p>Froala is a powerful rich text editor that allows you to paste content as plain text. Doing this will remove all the styling, and you will get plain text in the editor.</p>
+<p><img class="alignnone size-full wp-image-46173" src="https://froala.com/wp-content/uploads/2022/08/c-2.png" alt="copy and paste content as pain text in Froala rich text editor" width="876" height="314" srcset="https://froala.com/wp-content/uploads/2022/08/c-2.png 876w, https://froala.com/wp-content/uploads/2022/08/c-2-300x108.png 300w, https://froala.com/wp-content/uploads/2022/08/c-2-768x275.png 768w" sizes="(max-width: 876px) 100vw, 876px" /></p>
+<h3><strong>Does Froala Clean The Unnecessary Code When I Copy and Paste Content?</strong></h3>
+<p>Froala WYSIWYG HTML editor comes with a Word Paste plugin. This plugin gives you the option to keep the code as it is or clean it. When you use the clean option, all the unnecessary code is removed, and the HTML looks good. The best part is that it doesn&#8217;t remove any styling. Similarly, you can easily <a href="https://froala.com/blog/general/easily-bring-word-and-excel-data-to-the-web-through-powerful-wysiwyg-html-editor/">copy and paste content from MS Excel</a>.</p>
+<p><img class="alignnone size-full wp-image-46174" src="https://froala.com/wp-content/uploads/2022/08/d-1.png" alt="Clean unnecessary code while pasting content to Froala" width="979" height="257" srcset="https://froala.com/wp-content/uploads/2022/08/d-1.png 979w, https://froala.com/wp-content/uploads/2022/08/d-1-300x79.png 300w, https://froala.com/wp-content/uploads/2022/08/d-1-768x202.png 768w" sizes="(max-width: 979px) 100vw, 979px" /></p>
+<p>In addition to providing impressive copy and paste features, Froala also comes with many other incredible features:</p>
+<h3><strong>Can I Customize Froala’s Toolbar?</strong></h3>
+<p>Froala has an efficient toolbar that can accommodate over 100 features at a time. However, Froala also allows you to add and remove tools from the toolbar as per your requirements. It even allows you to fix the toolbar at the top or bottom. Additionally, there is a toolbar offset feature to prevent the toolbar from overlapping with the header on your webpage.</p>
+<h3><strong>Can I Insert and Edit Images and Videos Using Froala?</strong></h3>
+<p>Froala HTML editor provides <a href="https://froala.com/blog/editor/how-to-insert-images-using-javascript-editor/">multiple options to insert images</a> and videos. For example, you can upload images/videos by URL or directly from your device. Froala also comes with several options for editing images and videos. These include:</p>
+<ul>
+<li>Resize, align, or replace images and videos</li>
+<li>Reposition images</li>
+<li>Insert link to an image</li>
+<li>Several image display options: inline or break text</li>
+<li>Add image alt text and caption</li>
+<li>Several image styling options, such as rounded, bordered, or shadowed</li>
+<li>Preview videos directly from the editor’s interface</li>
+</ul>
+<h3><strong>Can I Add More Features To Froala?</strong></h3>
+<p>Froala comes with <a href="https://froala.com/wysiwyg-editor/docs/plugins/">30+ advanced plugins</a> that allow you to add new features to the editor. Some of the best plugins include:</p>
+<ul>
+<li>Align</li>
+<li>Code view</li>
+<li>Code mirror</li>
+<li>Spell check</li>
+<li>MS Word Paste</li>
+<li>Embedly</li>
+<li>Track changes and many more</li>
+</ul>
+<p><a href="https://froala.com/wysiwyg-editor/download/">Ready to copy and paste content from MS Word to a rich text editor correctly? Sign up for Froala WYSIWYG editor today!</a></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/is-copy-and-paste-to-rich-text-wysiwyg-editors-problematic/">Is Copy And Paste To Rich Text WYSIWYG Editors Problematic?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/general/is-copy-and-paste-to-rich-text-wysiwyg-editors-problematic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">46172</post-id>	</item>
+		<item>
+		<title>What&#8217;s The Best WordPress Content Editor In 2022?</title>
+		<link>https://froala.com/blog/editor/whats-the-best-wordpress-content-editor-in-2022/</link>
+					<comments>https://froala.com/blog/editor/whats-the-best-wordpress-content-editor-in-2022/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Derek Johnson]]></dc:creator>
+		<pubDate>Tue, 09 Aug 2022 13:00:10 +0000</pubDate>
+				<category><![CDATA[Editor]]></category>
+		<category><![CDATA[free wysiwyg editor]]></category>
+		<category><![CDATA[Froala]]></category>
+		<category><![CDATA[Froala Editor]]></category>
+		<category><![CDATA[Froala WordPress plugin]]></category>
+		<category><![CDATA[Froala WYSIWYG HTML editor]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=46092</guid>
+
+					<description><![CDATA[<p>Resources with detailed descriptions of what makes a great WordPress content editor can be hard to come by these days. However, if you’re to select a WordPress text editor that’ll be the perfect fit for your project, a clear features overview of the best out there is imperative.    In May 2003, American developer Matt Mullenweg [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/whats-the-best-wordpress-content-editor-in-2022/">What&#8217;s The Best WordPress Content Editor In 2022?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><span style="font-weight: 400;">Resources with detailed descriptions of what makes a great WordPress content editor can be hard to come by these days. However, if you’re to select a </span><a href="https://froala.com/wysiwyg-editor/features/"><span style="font-weight: 400;">WordPress text editor</span></a><span style="font-weight: 400;"> that’ll be the perfect fit for your project, a clear features overview of the best out there is imperative.   </span></p>
+<p><span style="font-weight: 400;">In May 2003, American developer Matt Mullenweg and English developer Mike Little released the first version of WordPress. Albeit as a fork of b2/cafelog. This version came with a classic WordPress text editor. Fast forward many years later, and numerous WordPress content editors have flooded the market—each offering unique benefits and functionalities. </span></p>
+<p><span style="font-weight: 400;">However, some editors are the complete package, built to meet virtually any need, for example, Froala, as you’ll see in this article. At the same time, there are many substandard editors in the market today, and choosing the right one can get overwhelming. </span></p>
+<p><span style="font-weight: 400;">To help you cut through the noise, this article discusses the vital features that a great WordPress content editor should have. We’ll also look at examples of WP content editors with these functionalities. </span></p>
+<p><span style="font-weight: 400;">So, without further ado, let’s get into it.</span></p>
+<h2><span style="font-weight: 400;">What Are The Features Of A Great WordPress Content Editor?</span></h2>
+<p><span style="font-weight: 400;">Typically, the viability of a WordPress content editor is unique to the project it&#8217;s meant for. In other words, the best WP editor is one that meets your project needs and objectives. However, there are unique features that every great WP content editor must have. Some of which include:</span></p>
+<h3><span style="font-weight: 400;">Easy Integration</span></h3>
+<p><span style="font-weight: 400;">A great editor must allow </span><a href="https://froala.com/blog/general/easily-integrate-the-powerful-wysiwyg-froala-html-editor-into-wordpress/"><span style="font-weight: 400;">easy integration</span></a><span style="font-weight: 400;"> into any kind of project. This involves making it easy for users to easily incorporate, whether to existing or new projects. </span></p>
+<h3><span style="font-weight: 400;">Cross Browser/ Cross Platform</span></h3>
+<p><span style="font-weight: 400;">A good WP content editor must also support multiple browsers and devices. This way, you can access your projects and even make important edits on the go using a tablet or a smartphone. The world is rapidly advancing, and such features have come to be expected.  </span></p>
+<h3><span style="font-weight: 400;">Modern Interface and Customization</span></h3>
+<p><span style="font-weight: 400;">While a modern interface doesn’t actually mean a great text editor, great editors keep up with the latest industry trends. This way, you don’t feel like you’re swapping your modern devices for an old supercomputer when you open your editor. Additionally, the best fit for your project would allow full customization according to your project needs. </span></p>
+<h3><span style="font-weight: 400;">Lightweight</span></h3>
+<p><span style="font-weight: 400;">To ensure you’re not hurting your application’s performance by adding editing experience, your editor must be lightweight. This way, you don’t lose your loading speed.</span></p>
+<h3><span style="font-weight: 400;">Optimized For Mobile</span></h3>
+<p><span style="font-weight: 400;">Due to how used mobile devices have become, almost every application must be optimized for mobile. This includes responsive design elements, image and video resizing, etc. </span></p>
+<h3><span style="font-weight: 400;">Security</span></h3>
+<p><span style="font-weight: 400;">With the cybercrime rate increasing exponentially yearly, security has never been more critical. WordPress content editors must have a strong defense mechanism against XSS attacks, among other forms of attack. </span></p>
+<h3><span style="font-weight: 400;">Limitless Formatting</span></h3>
+<p><span style="font-weight: 400;">Formatting functionalities are basic features for most content editors. However, Great editors offer much more than just basic formatting capabilities. This can include:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Advanced styling</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Class styling</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Markdown support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Selection details</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Accessibility</span></h3>
+<p><span style="font-weight: 400;">In content development, accessibility is crucial to achieving your goals. Making your content accessible to everyone, including people with temporary, situational, or permanent disabilities, is essential. In other words, your editor must possess accessibility features. Some of which include:</span><span style="font-weight: 400;"><br />
+</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">508 compliant</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Keyboard navigation</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Shortcuts</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">WCAG 2.0 compliant</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">WAI-ARIA compliant</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Productivity</span></h3>
+<p><span style="font-weight: 400;">One cannot overemphasize the need for increased agility and productivity in today’s fast-paced world. This means you can’t afford an editor that doesn’t boost your productivity. Great WordPress content editors have in-built features that increase productivity. Some of these features include:</span><span style="font-weight: 400;"><br />
+</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Real-time editing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Track changes</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mentions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">TUI advanced image editor</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Useful 3rd-party integrations</span></li>
+</ul>
+<h2><span style="font-weight: 400;">What Are Some Examples Of WordPress Content Editors? </span></h2>
+<p><span style="font-weight: 400;">There are numerous WordPress text editors in the market. Although some possess similar features, each has unique functionalities built to satisfy specific user needs. </span></p>
+<p><span style="font-weight: 400;">Here are some examples:</span></p>
+<h3><span style="font-weight: 400;">Froala</span></h3>
+<p><img class="alignnone wp-image-6122 size-full" src="http://embt.peacekeeper.com/wp-content/uploads/2022/08/Screenshot-43.png" alt="Froala WordPress Content editor" width="1345" height="667" /></p>
+<p><span style="font-weight: 400;">Froala is a powerful yet lightweight WordPress content editor. Since it is written in JavaScript, it allows you to leverage the programming language’s rich text editing capabilities for your applications. Some of its features include;</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Easy integration</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Full customization</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">3rd-party integrations (for example, embed.ly)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Real-time editing</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lightweight</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">508 compliant</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Markdown support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">WCAG 2.0 compliant</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">WAI-ARIA compliant</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Quill</span></h3>
+<p><img class="alignnone wp-image-6119 size-full" src="http://embt.peacekeeper.com/wp-content/uploads/2022/08/Screenshot-40.png" alt="Quill WordPress content editor" width="1249" height="525" /></p>
+<p><span style="font-weight: 400;">Quill is an open-source text editor with modular architecture and expressive API to offer users compatibility and extensibility. Here are some of its features</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cross-browser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cross-platform</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Customization</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">API drive design</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Custom content and formatting</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Content tools</span></h3>
+<p><img class="alignnone wp-image-6120 size-full" src="http://embt.peacekeeper.com/wp-content/uploads/2022/08/Screenshot-41.png" alt="Content tools" width="978" height="516" /></p>
+<p><span style="font-weight: 400;">Built by Anthony Blackshaw of Getme Limited, Content Tools is an open-source WordPress content editor built for HTML content and written in JavaScript/CoffeeScript. It possesses the following features;</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Lightweight</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Extensibility</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Flexibility</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Framework agnostic</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Visual Editor</span></h3>
+<p><span style="font-weight: 400;">Visual Editor is a MediaWiki online rich text editor that allows users to contribute without learning wiki markup. It is written in JavaScript and PHP. Some of its features include:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cross-browser</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">HTML input</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Responsive design</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Plugins and integrations</span></li>
+</ul>
+<h3><span style="font-weight: 400;">Mercury Editor </span></h3>
+<p><img class="alignnone wp-image-6121 size-full" src="http://embt.peacekeeper.com/wp-content/uploads/2022/08/Screenshot-42.png" alt="Mercury editor" width="1102" height="452" /></p>
+<p><span style="font-weight: 400;">Mercury Editor is a full-featured editor known as the Rails HTML 5 WYSIWYG editor. According to its docs, “this editor uses the HTML5 contentEditable features on block elements, instead of iframes.”</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">HTML5 contentEditable </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Markdown support</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Jasmine and cucumber tested</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">customization</span></li>
+</ul>
+<h2><span style="font-weight: 400;">Which WordPress Content Editor Is The Best?</span></h2>
+<p><span style="font-weight: 400;">Ideally, the best WordPress content editor would meet your project needs. Each editor discussed in this article has unique features that can satisfy specific user needs. However, only one possesses most of the features of a great editor—Froala. Froala boasts many powerful features that make it stand out amongst other WP content editors. From APIs, accessibility, and performance to customization, and other aspects, Froala is way ahead of the curve.</span></p>
+<p><span style="font-weight: 400;">Additionally, the </span><a href="https://froala.com/wysiwyg-editor/docs/plugins/"><span style="font-weight: 400;">Froala WordPress plugin</span></a><span style="font-weight: 400;"> replaces WP default editors and enhances WP content editing with fabulous features.</span></p>
+<p><span style="font-weight: 400;">Therefore, if your “project needs” involve an editor with excellent security, accessibility, performance, support, and an easy-to-use interface, then Froala is your only option. </span></p>
+<p><span style="font-weight: 400;">Still haven’t made up your mind yet? Check out </span><a href="https://froala.com/blog/editor/why-we-love-free-wysiwyg-editor-and-you-should-too/#:~:text=Froala%20offers%20many%20great%20text,%2C%20changing%20font%20size%2C%20etc."><span style="font-weight: 400;">Why We Love A Free WYSIWYG Editor (And You Should, Too!)</span></a><span style="font-weight: 400;">. Otherwise, download the </span><a href="https://froala.com/wysiwyg-editor/docs/framework-plugins/wordpress/"><span style="font-weight: 400;">WordPress Froala editor</span></a><span style="font-weight: 400;"> to get started.</span></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/whats-the-best-wordpress-content-editor-in-2022/">What&#8217;s The Best WordPress Content Editor In 2022?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/editor/whats-the-best-wordpress-content-editor-in-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">46092</post-id>	</item>
+		<item>
+		<title>12 Tips For Mastering The WordPress Content Editor</title>
+		<link>https://froala.com/blog/general/12-tips-for-mastering-the-wordpress-content-editor/</link>
+					<comments>https://froala.com/blog/general/12-tips-for-mastering-the-wordpress-content-editor/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Sidra]]></dc:creator>
+		<pubDate>Thu, 04 Aug 2022 13:00:36 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Froala WordPress integration]]></category>
+		<category><![CDATA[Froala WordPress plugin]]></category>
+		<category><![CDATA[Froala WYSIWYG editor]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[WordPress content editor]]></category>
+		<category><![CDATA[WordPress Text Editor]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=45427</guid>
+
+					<description><![CDATA[<p>WordPress is the most popular content management system (CMS) that powers thousands of websites, blogs, and eCommerce stores. When it comes to writing content in WordPress, you have two options, text and visual. The WordPress text editor allows you to write text in HTML, which is helpful for plain text editing. The visual or content [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/12-tips-for-mastering-the-wordpress-content-editor/">12 Tips For Mastering The WordPress Content Editor</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>WordPress is the most popular content management system (CMS) that powers thousands of websites, blogs, and eCommerce stores. When it comes to writing content in WordPress, you have two options, text and visual. The <a href="https://froala.com/wysiwyg-editor/" target="_blank" rel="noopener">WordPress text editor</a> allows you to write text in HTML, which is helpful for plain text editing. The visual or content editor is like a WYSIWYG editor, which shows how your content would exactly appear in browsers when published. The WordPress content editor is like Microsoft Word, which allows you to format content, such as insert bullets and images.</p>
+<p>The best thing about WordPress content editor is that it is super easy to use, even for beginners. However, if you’re looking to publish engaging content more quickly and improve your productivity, there are some WordPress content editor tips and tricks that you should definitely learn. Read on if you want to learn the best WordPress content editor tips.</p>
+<h2><strong>What Are Some Of The Best Tips For Mastering WordPress Content Editor?</strong></h2>
+<h3><strong>What Are The Different Types Of Blocks In WordPress Content Editor?</strong></h3>
+<p>The first step in publishing beautiful content using WordPress is to understand how different blocks work. The blocks are the key part of the WordPress block editor, also known as the Gutenberg editor. There are several built-in blocks in the block editor. These include paragraph, heading, list, image, code, audio, and many more. The block editor is designed to enhance the content writing and editing experience.</p>
+<p><img class="aligncenter wp-image-45428 size-full" src="https://froala.com/wp-content/uploads/2022/08/a.png" alt="Different blocks of WordPress content editor" width="361" height="382" srcset="https://froala.com/wp-content/uploads/2022/08/a.png 361w, https://froala.com/wp-content/uploads/2022/08/a-284x300.png 284w" sizes="(max-width: 361px) 100vw, 361px" /></p>
+<h3><strong>Can I Customize The Display Of WordPress Content Editor?</strong></h3>
+<p>If you want to enhance your content writing and editing experience on WordPress, you can customize the display. When you click on the three dots in the upper right corner, you get several useful options to customize the display. You can fix the toolbar at the top or move it. You can also select <em>Fullscreen</em> mode to get more space. There is also a <em>Spotlight</em> mode that makes the block you’re working on more prominent and dims the other blocks.</p>
+<p><img class="alignnone wp-image-45429 size-full" src="https://froala.com/wp-content/uploads/2022/08/b1.png" alt="Different options to customize the display of WordPress content editor" width="1333" height="627" srcset="https://froala.com/wp-content/uploads/2022/08/b1.png 1333w, https://froala.com/wp-content/uploads/2022/08/b1-300x141.png 300w, https://froala.com/wp-content/uploads/2022/08/b1-1024x482.png 1024w, https://froala.com/wp-content/uploads/2022/08/b1-768x361.png 768w" sizes="(max-width: 1333px) 100vw, 1333px" /></p>
+<h3><strong>How To Add A Powerful Rich Text Editor In WordPress?</strong></h3>
+<p><img class="alignnone wp-image-45430 size-full" src="https://froala.com/wp-content/uploads/2022/08/c-1.png" alt="Froala Rich text editor" width="955" height="471" srcset="https://froala.com/wp-content/uploads/2022/08/c-1.png 955w, https://froala.com/wp-content/uploads/2022/08/c-1-300x148.png 300w, https://froala.com/wp-content/uploads/2022/08/c-1-768x379.png 768w" sizes="(max-width: 955px) 100vw, 955px" /></p>
+<p>If you want to add powerful, rich text editing capabilities to WordPress, you should definitely add Froala to your WordPress. Froala is one of the <a href="https://froala.com/blog/general/10-quick-tips-about-the-best-wysiwyg-html-editor/" target="_blank" rel="noopener">best WYSIWYG HTML editors</a> that offers tons of amazing rich text editing features. It comes with a <a href="https://froala.com/wysiwyg-editor/docs/framework-plugins/wordpress/" target="_blank" rel="noopener">WordPress plugin</a> that you can use to replace the default WordPress content editor with the Froala editor.</p>
+<p>Here are the most loved features of Froala WYSIWYG JavaScript editor:</p>
+<ul>
+<li>Enhances web content editing experience</li>
+<li>Easy to <a href="https://froala.com/blog/general/easily-integrate-the-powerful-wysiwyg-froala-html-editor-into-wordpress/" target="_blank" rel="noopener">integrate into WordPress</a></li>
+<li>Beautiful, modern interface</li>
+<li>Offers more than 100 content editing features</li>
+<li><strong>Customizable toolbar</strong> – you can add and remove tools as needed, and fix the toolbar at the top or bottom</li>
+<li>Tons of text formatting options, such as bold, italics, several text and background colors, and different font sizes</li>
+<li>Numbered and bulleted lists</li>
+<li><a href="https://froala.com/blog/editor/how-to-insert-images-using-javascript-editor/" target="_blank" rel="noopener">Multiple options to insert images</a> and videos</li>
+<li><strong>Several image and video editing options</strong>: align images and videos, add image alt text and caption, reposition images, change image size, image styling, and display options, and more</li>
+<li>Comes with <a href="https://froala.com/wysiwyg-editor/docs/plugins/" target="_blank" rel="noopener">over 30 advanced plugins</a> that you can use to extend the basic functionality of the rich-text editor JS</li>
+<li>Custom themes and more</li>
+</ul>
+<h3><strong>How To Use Headings In WordPress?</strong></h3>
+<p>Headings allow you to divide your post or article into different sections. This improves readability and gives readers an idea of what is being discussed in each section. In fact, adding headings to your articles is among the best SEO <em>(Search Engine Optimization)</em> practices. The WordPress content editor offers several heading options, which makes it easy to add different headings to your articles.</p>
+<p><img class="alignnone size-full wp-image-45431" src="https://froala.com/wp-content/uploads/2022/08/d.png" alt="Different heading options in WordPress" width="797" height="373" srcset="https://froala.com/wp-content/uploads/2022/08/d.png 797w, https://froala.com/wp-content/uploads/2022/08/d-300x140.png 300w, https://froala.com/wp-content/uploads/2022/08/d-768x359.png 768w" sizes="(max-width: 797px) 100vw, 797px" /></p>
+<h3><strong>What Is The ‘Buttons’ Block?</strong></h3>
+<p>The buttons block in the content editor is useful when you want to add a CTA (call to action) into your posts or articles. CTAs help convert a user into a real customer.</p>
+<p><img class="alignnone size-full wp-image-45432" src="https://froala.com/wp-content/uploads/2022/08/e.png" alt="Buttons block" width="1058" height="263" srcset="https://froala.com/wp-content/uploads/2022/08/e.png 1058w, https://froala.com/wp-content/uploads/2022/08/e-300x75.png 300w, https://froala.com/wp-content/uploads/2022/08/e-1024x255.png 1024w, https://froala.com/wp-content/uploads/2022/08/e-768x191.png 768w" sizes="(max-width: 1058px) 100vw, 1058px" /></p>
+<h3><strong>What Are WordPress Content Editor Keyboard Shortcuts?</strong></h3>
+<p>One of the best tips to increase productivity is to learn WordPress content editor keyboard shortcuts. WordPress comes with several helpful content editor keyboard shortcuts, such as full-screen mode, show or hide settings, and more. You can display keyboard shortcuts in the editor by pressing <strong>Ctrl+Alt+H</strong>.</p>
+<p><img class="alignnone size-full wp-image-45433" src="https://froala.com/wp-content/uploads/2022/08/f.png" alt="Different keyboard shortcuts of WordPress content editor" width="995" height="563" srcset="https://froala.com/wp-content/uploads/2022/08/f.png 995w, https://froala.com/wp-content/uploads/2022/08/f-300x170.png 300w, https://froala.com/wp-content/uploads/2022/08/f-768x435.png 768w" sizes="(max-width: 995px) 100vw, 995px" /></p>
+<h3><strong>How To Add Videos To Your Content Without Directly Uploading Them To WordPress?</strong></h3>
+<p>Videos play an important role in catching the attention of the readers, and they also increase engagement. WordPress allows you to upload videos directly, but it doesn’t support large video files. The best way to add videos to your WordPress post is to embed them. This means you can first upload your desired videos to YouTube and then embed them in WordPress.</p>
+<p>Below is how you can embed a video in WordPress:</p>
+<p><img class="alignnone size-full wp-image-45434" src="https://froala.com/wp-content/uploads/2022/08/g1.png" alt="embedding videos in WordPress" width="1058" height="333" srcset="https://froala.com/wp-content/uploads/2022/08/g1.png 1058w, https://froala.com/wp-content/uploads/2022/08/g1-300x94.png 300w, https://froala.com/wp-content/uploads/2022/08/g1-1024x322.png 1024w, https://froala.com/wp-content/uploads/2022/08/g1-768x242.png 768w" sizes="(max-width: 1058px) 100vw, 1058px" /></p>
+<p>And here is how your video would look like once embedded:</p>
+<p><img class="alignnone size-full wp-image-45435" src="https://froala.com/wp-content/uploads/2022/08/g2.png" alt="How an embedded video looks like in WordPress content editor" width="1047" height="599" srcset="https://froala.com/wp-content/uploads/2022/08/g2.png 1047w, https://froala.com/wp-content/uploads/2022/08/g2-300x172.png 300w, https://froala.com/wp-content/uploads/2022/08/g2-1024x586.png 1024w, https://froala.com/wp-content/uploads/2022/08/g2-768x439.png 768w" sizes="(max-width: 1047px) 100vw, 1047px" /></p>
+<h3><strong>Can I Display Content And Images Side By Side In WordPress Editor?</strong></h3>
+<p>Adding images next to the text was pretty difficult with the classic WordPress text editor. However, with the block editor, you can use the <em>Media &amp; Text Block</em> to display images next to the content quickly and easily.</p>
+<p><img class="alignnone size-full wp-image-45438" src="https://froala.com/wp-content/uploads/2022/08/h1.png" alt="Displaying content next to an image in WordPress content editor" width="1037" height="499" srcset="https://froala.com/wp-content/uploads/2022/08/h1.png 1037w, https://froala.com/wp-content/uploads/2022/08/h1-300x144.png 300w, https://froala.com/wp-content/uploads/2022/08/h1-1024x493.png 1024w, https://froala.com/wp-content/uploads/2022/08/h1-768x370.png 768w" sizes="(max-width: 1037px) 100vw, 1037px" /></p>
+<h3><strong>Is There A Table Block In WordPress?</strong></h3>
+<p>When you want to compare two products or when you want to organize complex data, you can use tables in your posts. Adding tables in WordPress is super easy with the block editor. It comes with a ‘Table’ block that allows you to specify the number of rows and columns.</p>
+<p><img class="alignnone size-full wp-image-45437" src="https://froala.com/wp-content/uploads/2022/08/j.png" alt="Table block" width="1043" height="517" srcset="https://froala.com/wp-content/uploads/2022/08/j.png 1043w, https://froala.com/wp-content/uploads/2022/08/j-300x149.png 300w, https://froala.com/wp-content/uploads/2022/08/j-1024x508.png 1024w, https://froala.com/wp-content/uploads/2022/08/j-768x381.png 768w" sizes="(max-width: 1043px) 100vw, 1043px" /></p>
+<h3><strong>Can I Adjust Line Spacing In WordPress Editor?</strong></h3>
+<p>WordPress allows you to add single and double line spacing to your text. WordPress starts the new paragraph with double line spacing by default. However, you can change it to single-line spacing by pressing <strong>Shift + Enter</strong>.</p>
+<h3><strong>Can I Change Text Size In WordPress Content Editor?</strong></h3>
+<p>When you’re writing web content, you need different text sizes. For example, large texts can grab readers&#8217; attention quickly, as they are easier to read. WordPress content editor comes with different font sizes that you can use as needed. In order to change the font of a particular text, simply select the text, and WordPress will display font size options on the right.</p>
+<p><img class="alignnone size-full wp-image-45439" src="https://froala.com/wp-content/uploads/2022/08/l.png" alt="Different font sizes in WordPress content editor" width="1347" height="471" srcset="https://froala.com/wp-content/uploads/2022/08/l.png 1347w, https://froala.com/wp-content/uploads/2022/08/l-300x105.png 300w, https://froala.com/wp-content/uploads/2022/08/l-1024x358.png 1024w, https://froala.com/wp-content/uploads/2022/08/l-768x269.png 768w" sizes="(max-width: 1347px) 100vw, 1347px" /></p>
+<h3><strong>How To Add Hyperlinks?</strong></h3>
+<p>One of the SEO best practices is to anchor text using internal and external links. To create clickable links in WordPress, you just have to select the text and click the link button on the toolbar. Once you click the link button, it’ll ask you to insert your desired link.</p>
+<p><img class="alignnone size-full wp-image-45440" src="https://froala.com/wp-content/uploads/2022/08/m.png" alt="Inserting links" width="989" height="317" srcset="https://froala.com/wp-content/uploads/2022/08/m.png 989w, https://froala.com/wp-content/uploads/2022/08/m-300x96.png 300w, https://froala.com/wp-content/uploads/2022/08/m-768x246.png 768w" sizes="(max-width: 989px) 100vw, 989px" /></p>
+<p>&nbsp;</p>
+<p><a href="https://froala.com/wysiwyg-editor/download/" target="_blank" rel="noopener">Add Froala WYSIWYG HTML into your WordPress today and follow other tips to make the most of your WordPress content editor!</a></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/12-tips-for-mastering-the-wordpress-content-editor/">12 Tips For Mastering The WordPress Content Editor</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/general/12-tips-for-mastering-the-wordpress-content-editor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">45427</post-id>	</item>
+		<item>
+		<title>9 Simple Ways To Increase Your Website&#8217;s Accessibility &#8211; Ultimate Guide</title>
+		<link>https://froala.com/blog/general/9-simple-ways-to-increase-your-websites-accessibility-ultimate-guide/</link>
+					<comments>https://froala.com/blog/general/9-simple-ways-to-increase-your-websites-accessibility-ultimate-guide/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Md. Ehsanul Haque Kanan]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2022 13:00:41 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[alt tag]]></category>
+		<category><![CDATA[cms]]></category>
+		<category><![CDATA[disabled people]]></category>
+		<category><![CDATA[form accessibility]]></category>
+		<category><![CDATA[meaningful headings]]></category>
+		<category><![CDATA[optimize links]]></category>
+		<category><![CDATA[screen reader]]></category>
+		<category><![CDATA[web accessibility]]></category>
+		<category><![CDATA[website accessibility]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=44153</guid>
+
+					<description><![CDATA[<p>In today’s world of digital transformation, website accessibility is becoming increasingly important. More than one billion people are affected with disabilities &#8211; ranging from visual impairments to learning difficulties. If you don’t make your website accessible to them, you will lose a huge business opportunity. Also, it will lead your company into legal complications. That’s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/9-simple-ways-to-increase-your-websites-accessibility-ultimate-guide/">9 Simple Ways To Increase Your Website&#8217;s Accessibility &#8211; Ultimate Guide</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In today’s world of digital transformation, <a href="https://froala.com/" target="_blank" rel="noopener">website accessibility</a> is becoming increasingly important. More than one billion people are affected with disabilities &#8211; ranging from visual impairments to learning difficulties. If you don’t make your website accessible to them, you will lose a huge business opportunity. Also, it will lead your company into legal complications. That’s why you need to make your site easily accessible to the disabled community. But how can you do it? What are the ways to increase accessibility? In this post, you will find the details of how to make the website accessible to disabled people. Let&#8217;s dive in.</p>
+<h2><strong>What Is Web Accessibility? </strong></h2>
+<p>Web accessibility refers to the practice of making websites accessible to people with disabilities. It focuses on design principles for making everything easily understandable for visitors with visual impairments or limitations.</p>
+<p>For instance, people with color blindness may not differentiate normal texts from clickable links and areas. The elements are quite similar to each other. As a result, it becomes harder for color-blind people to differentiate them. You can solve the issues by underlining the texts. It will help them easily recognize the difference.</p>
+<h2><strong>Why Do We Require Web Accessibility?  </strong></h2>
+<p>According to the World Health Organization (WHO), 15% of the world’s population possesses some sort of disability. This includes physical, cognitive, and neurological limitations. With the aging population rising, the rates of disability are only set to increase.</p>
+<p>That’s why it’s important to make your website easily accessible to the disabled community and a more inclusive place for everyone. It will provide you with business benefits. For example, web accessibility helps you achieve increased audience reach. As a result, you will have a higher chance of getting clients and landing deals. Also, it leads to better search results and reduced maintenance costs. Besides, it enables you to demonstrate Corporate Social Responsibility (CSR).</p>
+<h2><strong>How To Make Website Accessible &#8211; What Are The Ways Of Improving Your Site&#8217;s Accessibility? </strong></h2>
+<p>There are different methods to enhance your site’s accessibility. For example, you can use alt tags with images. Also, you can organize content with subheadings.</p>
+<p>Let’s take a look at 9 easy ways to improve the website’s accessibility.</p>
+<h3><strong>1. How To Make Website Accessible &#8211; Is My Website Compatible With The Screen Reader?</strong></h3>
+<p>A screen reader is a form of assistive technology. It allows people with visual impairments to conveniently use computers. Screen reader converts texts, buttons, images, and other screen elements into speech or braille. It uses a Text-To-Speech (TTS) engine to translate on-screen information into speech. As a result, people with visual impairment can easily understand all the elements on the web page, including text, buttons, and images.</p>
+<p>There are different methods of making your site compatible with the screen reader. For example, you can use alternate text with the image. It will enable people with disabilities to comprehend the information using screen readers or Braille output devices. Also, you can use headings and subheadings to form an outline of the page. It will help screen-reader users easily navigate through the site.</p>
+<h3><strong>2. </strong><strong>Is It Important To Design For People With Motor Disabilities?</strong></h3>
+<p>Motor disability refers to physical impairments that can impede movement, coordination, or sensation. It can be due to congenital conditions, illnesses, and physical trauma. People with motor disabilities can’t use the mouse to navigate around the site. That’s why you need to provide them with effective support.</p>
+<p>One great way is to make your website effectively usable with the keyboard. It will enable people with motor disabilities to use the site without the mouse. You should follow WAI-ARIA guidelines to make all web page elements easily accessible via keyboards and keyboard emulators. Also, make sure to reduce actions that require too many keypresses. It will make the lives of disabled people a lot easier.</p>
+<h3><strong>3. How To Make Website Accessible &#8211; Should I Choose Accessible CMS? </strong></h3>
+<p>CMS stands for Content Management System. It enables you to easily create, edit, collaborate, and publish content on your site. Make sure to choose an accessible CMS for your site. It will enable people with disabilities to conveniently use it. If you notice any shortcomings with accessibility, understand the workarounds. Know which themes, plug-ins, and modules are effective. Also, make sure that everything is compatible with web accessibility standards, such as WCAG 2.0.</p>
+<p><a href="https://froala.com/blog/editor/12-steps-to-find-the-perfect-javascript-editor/" target="_blank" rel="noopener">Read: 12 Steps To Find The Perfect JavaScript Editor</a></p>
+<h3><strong>4. Should I Create An Alt Text For Images?</strong></h3>
+<p>Alt text for images is critical for people with disabilities. It describes the function and appearance of photos they cannot see. People using screen readers have to rely on alt text to learn about the images. Things can get very confusing if it doesn’t appropriately represent the depiction of the photo.</p>
+<p>When writing alt text, make sure the description is accurate. However, it shouldn’t be too lengthy. It will enable people using screen readers to conveniently comprehend the detail. Also, it boosts your site’s SEO ranking. The alt text provides context to what an image is displaying. It enables search engine crawlers to correctly index the photo. That’s why it’s very important to accurately create the description of alt text.</p>
+<h3><strong>5. How To Make Website Accessible &#8211; Do I Need To Optimize My Links? </strong></h3>
+<p>You should use link skipping to enable visitors to skip unnecessary information. As a result, they can quickly get to the things they are actually interested in. Also, make sure to properly describe the link destination. You should always use descriptive names. You shouldn’t use text like &#8220;click here.&#8221; It is not considered descriptive. Also, it is ineffective for people to use screen-readers. They will not get any context if you don’t use distinctive and descriptive links.</p>
+<p>People using screen readers often navigate the links list by searching via the first letter. That’s why you should present the most unique content of the link first. Also, make sure to create appropriate descriptions. For instance, you are pointing visitors to a page called &#8220;About Us.&#8221; You shouldn’t say, &#8220;Click here to read about our business.&#8221; Instead, you should use a description like this: “Read About Us page to learn more about our business and services.”</p>
+<h3><strong>6. Do I Need To Give My Content Meaningful Headings?</strong></h3>
+<p>You often structure your content by making phrases bigger or bolder. Also, you use different colors to grab the attention of people. It can work with average site visitors. However, it doesn’t work with people relying on screen readers. The accessible text will be read from top to bottom with no structure. Therefore, people with disabilities will have no chance to navigate between meaningful sections.</p>
+<p>That’s why you need to use meaningful headings and effectively define the hierarchy. It will enable you to structure the content for screen-readers. You can use six levels of headings to structure your content. The most important heading on a page is H1, followed by H2, H3, and so on. In this way, you can divide pages into consumable sections. As a result, the screen-reader can easily understand the structure of your content.</p>
+<p><a href="https://froala.com/blog/general/the-best-kept-secrets-about-the-best-wysiwyg-html-editor/" target="_blank" rel="noopener">The Best Kept Secrets About The Best WYSIWYG HTML Editor</a></p>
+<h3><strong>7. How To Make Website Accessible &#8211; Should I Avoid Using Tables? </strong></h3>
+<p>Tables allow you to efficiently organize information. However, they can cause major usability headaches when it comes to website accessibility. Sometimes, they can make content extremely hard to understand and navigate.</p>
+<p>For example, most screen readers read web pages in the order they display in the HTML. It can be very difficult for them to parse the tables. Screen-readers read cells left to right. However, it may not be the correct content hierarchy in the tables. That’s why you should use tables only for presenting tabulated data. You shouldn’t use it for layout or formatting.</p>
+<h3><strong>8. Do I Need To Allow Access To All Dynamic Content?</strong></h3>
+<p>Screen-readers may not be aware when content dynamically updates on the site. This includes screen overlays, lightboxes, modal dialogs, and more. As a result, they become inaccessible to assistive technology.</p>
+<p>However, you can easily make the specific functions accessible. There are different ways. For example, you can use a front-end development framework that supports accessibility. If your site contains a slideshow, make sure to include alt text in each of the photos. Also, ensure the user can easily navigate them with the keyboard. Besides, you should test the accessibility of unique widgets, like the calendar picker.</p>
+<p><a href="https://froala.com/blog/editor/software-for-accessibility-froalas-javascript-rich-text-editor-commitment-to-section-508/" target="_blank" rel="noopener">Read: Software For Accessibility</a></p>
+<h3><strong>9. How To Make Website Accessible &#8211; Do I Need To Ensure The Accessibility Of All Forms?</strong></h3>
+<p>Form labeling is very important for the website’s accessibility. Without it, the screen reader user will not have the same cues available as the sighted user. As a result, they can’t understand labels or prompts associated with the form field.</p>
+<p>Each of the form fields should have a descriptive label. For example, if the field is for a person&#8217;s address, it should be labeled appropriately as &#8220;Address.&#8221; Also, you should group all the similar form fields. For example, you can group fields like &#8220;Full Name&#8221; and &#8220;Address&#8221; as &#8220;Personal Information.&#8221; It will help screen-reader users to easily keep track of progress. Also, it can provide disabled people with the context that might have been lost while filling out the form.</p>
+<h2><strong>What Are The Advantages Of Having An Accessible Website?</strong></h2>
+<ul>
+<li><strong>Reaching Wider Audiences:</strong> Making your website accessible helps reach more people, including the disabled community. As a result, you will have a higher chance of getting more customers for your business. It will help you boost revenue and enhance your brand&#8217;s visibility on the web.</li>
+<li><strong>Avoid Legal Complications: </strong>You don’t want to discriminate against people with disabilities. Your business might face legal complications if your site doesn’t offer web accessibility. You don’t want to discriminate against the disabled community.</li>
+<li><strong>Enhance SEO Ranking:</strong> Search engines are similar to users with vision impairment. They can’t see the content of your images. That’s why you need to make your website accessible. It will boost your SEO ranking. For example, using alt text for images is useful for helping screen-readers understand the information.</li>
+<li><strong>Build Positive Public Relations: </strong>Taking a stand on web accessibility helps you showcase a positive brand image. It will make your business more appealing to everyone. Your clients will appreciate you. Also, they will recommend your business to their connections. In this way, you can effectively build positive public relations.</li>
+<li><strong>Enhance Usability of Your Site: </strong>Following web accessibility best practices helps fix usability issues. As a result, your website will deliver a better user experience. Also, people with age-related accessibility needs can easily navigate your website. Besides, mobile phone users can conveniently visit the site. Therefore, you will get more customers for your business.</li>
+</ul>
+<h2><strong>FAQs &#8211; How Can I Make A Website Accessible?</strong></h2>
+<h3><strong>What steps should I take to make my website mobile-friendly? </strong></h3>
+<p>To make your website mobile-friendly, you have to create a responsive design. It will enable your site to display content based on the screen size. Also, you need to include the viewport meta tag. It tells browsers to fit the page width to the screen size. Besides, make sure to regularly test your site on mobile devices. It will help you identify issues that affect the user experience.</p>
+<h3><strong>How can I make my visually impaired website accessible?</strong></h3>
+<p>There are different ways. For example, keyboard shortcuts can help visually impaired people easily navigate websites. A mouse requires hand-eye coordination. Therefore, it is not useful for navigation. Also, you should use descriptive labels for links and buttons. It will enable people using screen-readers to easily navigate your site. Besides, you should use alt tags with all the images. It will help visually impaired people understand the context.</p>
+<h3><strong>How are websites made accessible to people with disabilities? </strong></h3>
+<p>You can make the website accessible by following different ways. First, you need to make your website compatible with the screen reader. It will enable people with disabilities to easily access your site. Next, you have to add alt tags for images and give your links descriptive names. Also, you need to use meaningful headings and make all forms accessible.</p>
+<p><img class="alignnone wp-image-44156 size-full" src="https://froala.com/wp-content/uploads/2022/07/Froala-How-to-Make-Website-Accessible.jpg" alt="Froala - How to Make Website Accessible" width="1365" height="619" srcset="https://froala.com/wp-content/uploads/2022/07/Froala-How-to-Make-Website-Accessible.jpg 1365w, https://froala.com/wp-content/uploads/2022/07/Froala-How-to-Make-Website-Accessible-300x136.jpg 300w, https://froala.com/wp-content/uploads/2022/07/Froala-How-to-Make-Website-Accessible-1024x464.jpg 1024w, https://froala.com/wp-content/uploads/2022/07/Froala-How-to-Make-Website-Accessible-768x348.jpg 768w" sizes="(max-width: 1365px) 100vw, 1365px" /></p>
+<h2><strong>Does Froala Support Web Accessibility?</strong></h2>
+<p>Froala’s interface has been designed for all types of users, including people with disabilities. It supports assistive technology. It offers several options for accessing HTML documents within a form. For instance, users who need assistive technology can use the tab button to navigate through it. Also, you can use keyboard shortcuts to perform various functions. For example, you can hit the enter button to submit the form. On top of that, Froala is fully compatible with the screen reader. It can properly read the content of the form. Overall, Froala is the best WYSIWYG editor when it comes to increasing the website’s accessibility.</p>
+<p><a href="https://froala.com/wysiwyg-editor/download/" target="_blank" rel="noopener">Froala is a powerful WYSIWYG editor. It equips your applications with rich text editing capabilities. Try it now for free.</a></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/general/9-simple-ways-to-increase-your-websites-accessibility-ultimate-guide/">9 Simple Ways To Increase Your Website&#8217;s Accessibility &#8211; Ultimate Guide</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/general/9-simple-ways-to-increase-your-websites-accessibility-ultimate-guide/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">44153</post-id>	</item>
+		<item>
+		<title>What&#8217;s The Best CSS Rich Text Editor in 2022?</title>
+		<link>https://froala.com/blog/editor/whats-the-best-css-rich-text-editor-in-2022/</link>
+					<comments>https://froala.com/blog/editor/whats-the-best-css-rich-text-editor-in-2022/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Sidra]]></dc:creator>
+		<pubDate>Thu, 28 Jul 2022 10:04:59 +0000</pubDate>
+				<category><![CDATA[Editor]]></category>
+		<category><![CDATA[best CSS rich text editor]]></category>
+		<category><![CDATA[CSS rich text editor]]></category>
+		<category><![CDATA[Froala CSS rich text editor]]></category>
+		<category><![CDATA[Froala WYSIWYG HTML editor]]></category>
+		<category><![CDATA[rich text editor]]></category>
+		<category><![CDATA[rich-text editor CSS]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=44103</guid>
+
+					<description><![CDATA[<p>A rich text editor is a useful tool that allows you to edit web content effortlessly. You can use these editors to format text quickly, and add images, videos, tables, links, and more without writing any code. A good rich-text editor CSS also comes with a modern WYSIWYG interface. This allows you to see how [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/whats-the-best-css-rich-text-editor-in-2022/">What&#8217;s The Best CSS Rich Text Editor in 2022?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A rich text editor is a useful tool that allows you to edit web content effortlessly. You can use these editors to format text quickly, and add images, videos, tables, links, and more without writing any code. A good <a href="https://froala.com/wysiwyg-editor/" target="_blank" rel="noopener">rich-text editor CSS</a> also comes with a modern WYSIWYG interface. This allows you to see how your web content would appear in a web browser. Web developers worldwide now use rich CSS text editors to create well-formatted, functional and beautiful websites and web apps.</p>
+<p>While there are several CSS rich text editors available in the market, not every editor offers the features you need. If you’re looking for the best WYSIWYG HTML editor, Froala is what you need. Froala is a lightweight Rich-text editor CSS that comes with tons of features for creating beautiful web content.</p>
+<p>In this post, we’ll discuss which features you should look for in the best CSS rich text editor and show you why Froala is the right choice.</p>
+<h2><strong>What Is A CSS Rich Text Editor?</strong></h2>
+<p>A <a href="https://froala.com/blog/editor/a-beginners-guide-to-rich-text-editors/" target="_blank" rel="noopener">rich text editor</a> is a tool for creating and editing web content. These editors come with lots of options to format text, such as bold, italics, and different font sizes. Some advanced editors also allow you to create numbered and bulleted lists, format paragraphs, add emoticons, and more. Additionally, you can use a rich text editor to add visual elements to your web pages, such as images and videos.</p>
+<p>Simply put, a CSS rich text editor enables you to create and edit web content without writing a single line of code. This means even if you don’t know HTML, you can still create beautiful web content by using a WYSIWYG editor. These days, many professional web developers also use WYSIWYG JavaScript editors to develop complex and lengthy web pages quickly.</p>
+<p>Rich text editors are widely used in blogging websites, CMS, and webmail applications to accelerate web content development and boost productivity.</p>
+<h2><strong>What Is The Best CSS Rich Text Editor?</strong></h2>
+<p><img class="alignnone size-full wp-image-5913" src="http://embt.peacekeeper.com/wp-content/uploads/2022/07/a-3.png" alt="Froala CSS rich text editor" width="955" height="505" /></p>
+<p>When it comes to rich text editors, you’ll find several options in the market. However, Froala leads the pack with its ease of use, clean interface, and advanced features.</p>
+<p>Froala is a lightweight WYSIWYG JavaScript editor that has a beautiful design and impressive rich text editing capabilities. It initializes in just under 40 milliseconds and offers tons of useful features, such as full-screen support, custom themes, keyboard shortcuts, a custom toolbar, and more.</p>
+<p>Froala is also the <a href="https://froala.com/blog/comparisons/7-wysiwyg-editor-comparisons-show-froala-editor-at-the-top/" target="_blank" rel="noopener">leading WYSIWYG HTML on G2</a>. G2 is a reputed website that helps you choose the best software and tools for your needs. It ranks tools based on unbiased customer reviews and market presence. The top position of Froala shows it is the best CSS rich text editor that offers all the tools users need to create and edit web content quickly and easily.</p>
+<p>Here are the most liked features of Froala that make it the best rich text editor:</p>
+<h3><strong>How Can I Edit Text With Froala CSS Rich Text Editor?</strong></h3>
+<p>Froala comes with a number of content styling and editing features for creating any type of web content. Some of these features include:</p>
+<ul>
+<li>Bold and italics</li>
+<li>Several font sizes, background colors, and text colors</li>
+<li>Add superscript and subscript</li>
+<li>Create numbered and bulleted lists</li>
+<li>Custom style for specific text</li>
+<li>Line spacing and indentation</li>
+<li>Emoticons</li>
+<li>Line breaker for adding new lines</li>
+<li>Allows you to embed any text or content from the web into the editor</li>
+</ul>
+<h3><strong>Does Froala CSS Rich Text Editor Allow You To Create Custom Themes?</strong></h3>
+<p><img class="alignnone wp-image-5910 size-full" src="http://embt.peacekeeper.com/wp-content/uploads/2022/07/a-2.png" alt="Different color themes of Froala CSS rich text editor " width="787" height="507" /></p>
+<p>Froala editor offers four themes &#8211; Dark, Red, Gray, and Royal &#8211; that you can choose depending on your website&#8217;s color palette. You can choose your desired theme by using the <a href="https://froala.com/wysiwyg-editor/v2-0/docs/options/#theme" target="_blank" rel="noopener">theme</a> option and including the corresponding CSS theme file. You can even create custom themes and <a href="https://froala.com/wysiwyg-editor/v2.0/customize/" target="_blank" rel="noopener">customize the editor&#8217;s interface</a>.</p>
+<h3><strong>How Can I Add Images and Videos Using Froala Website HTML Editor?</strong></h3>
+<p>Froala CSS rich text editor has <a href="https://froala.com/blog/editor/how-to-insert-images-using-javascript-editor/" target="_blank" rel="noopener">multiple options to insert images</a> and videos. For instance, you can upload images/videos directly from your device or by URL. Froala also offers several options for editing images and videos:</p>
+<ul>
+<li>Resize, align, or replace images and videos</li>
+<li>Add image alt text and caption</li>
+<li>Insert link to an image</li>
+<li>Several image styling options, such as rounded, bordered or shadowed</li>
+<li>Multiple image display options: inline or break text</li>
+<li>Reposition images</li>
+<li>Preview videos directly from the editor’s interface</li>
+</ul>
+<h3><strong>Can I Customize Froala’s Toolbar?</strong></h3>
+<p><img class="alignnone wp-image-5911 size-full" src="http://embt.peacekeeper.com/wp-content/uploads/2022/07/toolbar.png" alt="Froala CSS rich text editor toolbar" width="690" height="148" /></p>
+<p>Froala gives you complete control over its toolbar. While the toolbar can accommodate 100+ features, you can also customize it the way you want. You can add tools that you use the most, and remove the ones you rarely use. Additionally, you can change the order of the tools for your ease.</p>
+<p>Another liked feature of Froala&#8217;s toolbar is that you can fix it as the top or bottom of the screen. This way, the toolbar doesn’t move while you scroll. You can even set toolbar offset so that it doesn’t overlap with your webpage’s header.</p>
+<h3><strong>How Can I Add More Advanced Features To Froala CSS Rich Text Editor?</strong></h3>
+<p><img class="alignnone wp-image-5909 size-full" src="http://embt.peacekeeper.com/wp-content/uploads/2022/07/aa.png" alt="Froala's plugins " width="823" height="613" /></p>
+<p>Froala editor provides all the basic features for editing web content. However, when you’re working on complex websites, you also need advanced features. That’s why Froala comes with <a href="https://froala.com/wysiwyg-editor/docs/plugins/" target="_blank" rel="noopener">more than 30 advanced plugins</a> that allow you to add more features to the editor. Froala even lets you create your own custom plugins.</p>
+<p>Some of the most popular plugins of Froala include:</p>
+<ul>
+<li>Code View</li>
+<li>Emoticons</li>
+<li>File Manager</li>
+<li>Code Beautifier</li>
+<li>Paragraph Format</li>
+<li>Font Size</li>
+<li>Markdown Support</li>
+<li>Image Manager</li>
+</ul>
+<h3><strong>Is It Easy To Integrate Froala CSS Rich Text Editor Into Your Applications? </strong></h3>
+<p>Froala HTML Editor comes with <a href="https://froala.com/wysiwyg-editor/docs/framework-plugins/" target="_blank" rel="noopener">plugins for all major development frameworks</a>, such as Angular, React, Django, Ember, and more. These plugins make it easy to integrate the editor into your applications. Froala also has server-side SDKs for different languages to ease the process of integrating the editor with your server. It also provides guides and code examples on handling files, images, and video upload on different server types. Additionally, there are <a href="https://froala.com/wysiwyg-editor/docs/migration_guides/" target="_blank" rel="noopener">step-by-step migration guides</a> for replacing your current editor with Froala.</p>
+<p>Do you want to learn how to use Rich Text Editor in React JS<a href="https://froala.com/blog/editor/how-to-use-rich-text-editor-in-react-js/#Does_it_provide_a_seamless_WYSIWYG_interface" target="_blank" rel="noopener">? Check out our guide on React WYSIWYG HTML editor</a>.</p>
+<h3><strong>Does Froala Have Cross-Platform and Cross-Browser Support?</strong></h3>
+<p>Froala is an efficient CSS rich text editor that has both cross-platform and cross-browser support. This means the editor works on almost all browsers, including Safari, Chrome, and Internet Explorer. Additionally, you can use Froala on any device, such as desktop PCs, laptops, and tablets.</p>
+<p><a href="https://froala.com/wysiwyg-editor/download/" target="_blank" rel="noopener">Ready to use the best CSS Rich text editor? Sign up for Froala and try its impressive features today!</a></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/whats-the-best-css-rich-text-editor-in-2022/">What&#8217;s The Best CSS Rich Text Editor in 2022?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/editor/whats-the-best-css-rich-text-editor-in-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">44103</post-id>	</item>
+		<item>
+		<title>How To Improve Productivity With Your Web-Based JavaScript HTML Editor?</title>
+		<link>https://froala.com/blog/editor/how-to-improve-productivity-with-your-web-based-javascript-html-editor/</link>
+					<comments>https://froala.com/blog/editor/how-to-improve-productivity-with-your-web-based-javascript-html-editor/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Mehreen Saeed]]></dc:creator>
+		<pubDate>Tue, 26 Jul 2022 13:10:45 +0000</pubDate>
+				<category><![CDATA[Editor]]></category>
+		<category><![CDATA[collaborative editing]]></category>
+		<category><![CDATA[embed rich content]]></category>
+		<category><![CDATA[Font Awesome]]></category>
+		<category><![CDATA[Math editor]]></category>
+		<category><![CDATA[Mentions]]></category>
+		<category><![CDATA[track changes]]></category>
+		<category><![CDATA[web-based Javascript HTML editor]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=44077</guid>
+
+					<description><![CDATA[<p>A WYSIWYG HTML editor is an essential tool in a web designer&#8217;s and developer&#8217;s toolkit. It empowers you to develop HTML content in an easy-to-use word-processing-like environment without typing any code. Hence, anyone can design, create and edit long and complex HTML documents easily and fast. Having access to a web-based JavaScript HTML editor is, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/how-to-improve-productivity-with-your-web-based-javascript-html-editor/">How To Improve Productivity With Your Web-Based JavaScript HTML Editor?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A WYSIWYG HTML editor is an essential tool in a web designer&#8217;s and developer&#8217;s toolkit. It empowers you to develop HTML content in an easy-to-use word-processing-like environment without typing any code. Hence, anyone can design, create and edit long and complex HTML documents easily and fast. Having access to a web-based JavaScript HTML editor is, therefore, a must. But do these editors improve your productivity and efficiency?</p>
+<p>The answer to the above question depends upon the <a href="https://froala.com/wysiwyg-editor/" target="_blank" rel="noopener">JavaScript web editor</a> you are using. Take, for example, Froala &#8211; the best WYSIWYG HTML editor out there. Froala is a beautiful rich text editor. It enables you to create stunning and awesome content. Moreover, you can extend its functionality through plugins and increase your productivity and enhance efficiency.</p>
+<h2>How Do I Improve Productivity With My Web-Based JavaScript HTML Editor?</h2>
+<p>Here are a few tips to help you get started with improving productivity with Froala, the web-based JavaScript HTML editor. You can <a href="https://froala.com/blog/editor/how-to-integrate-3rd-party-tools-into-my-css-rich-text-editor/" target="_blank" rel="noopener">add more features and capabilities to Froala</a> by integrating different plugins in this editor. Here are a few examples.</p>
+<h3>What is Real-time Editing in My Froala Web-Based JavaScript HTML Editor?</h3>
+<p><img class="aligncenter wp-image-44086 size-large" src="https://froala.com/wp-content/uploads/2022/07/Untitled-4-1024x645.png" alt="collaborative editing in web-based javascript html editor" width="1024" height="645" srcset="https://froala.com/wp-content/uploads/2022/07/Untitled-4-1024x645.png 1024w, https://froala.com/wp-content/uploads/2022/07/Untitled-4-300x189.png 300w, https://froala.com/wp-content/uploads/2022/07/Untitled-4-768x484.png 768w, https://froala.com/wp-content/uploads/2022/07/Untitled-4-1536x968.png 1536w, https://froala.com/wp-content/uploads/2022/07/Untitled-4.png 1930w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
+<p>Froala WYSIWYG HTML editor supports and includes a <a href="https://froala.com/wysiwyg-editor/examples/codox-real-time-editing/" target="_blank" rel="noopener">third-party plugin called Codox.io</a>. Codox.io is Froala&#8217;s official plugin for real-time co-editing of HTML documents and content. This is an awesome feature that allows many people to collaborate and work on the same HTML document. When using this feature, if you type or edit something in your editor window, the changes automatically appear in your co-workers&#8217; editor windows. This collaborative feature offered by Froala is indeed a great way of increasing efficiency and productivity at work or when working from home.</p>
+<h3>How Do I Add Math Equations and Formulas in Froala WYSIWYG JavaScript editor?</h3>
+<p><img class="aligncenter wp-image-44089 size-full" src="https://froala.com/wp-content/uploads/2022/07/Untitled-5.png" alt="MathType in Froala editor" width="1508" height="718" srcset="https://froala.com/wp-content/uploads/2022/07/Untitled-5.png 1508w, https://froala.com/wp-content/uploads/2022/07/Untitled-5-300x143.png 300w, https://froala.com/wp-content/uploads/2022/07/Untitled-5-1024x488.png 1024w, https://froala.com/wp-content/uploads/2022/07/Untitled-5-768x366.png 768w" sizes="(max-width: 1508px) 100vw, 1508px" /></p>
+<p>There are often times when you want to add math equations and formulas to your HTML content. Froala provides full support to enable you to type math expressions, notations, formulas, and symbols through the <a href="https://froala.com/wysiwyg-editor/examples/wiris/" target="_blank" rel="noopener">MathType editor</a>. MathType is now recognized as one of the best math equation and formula editors. It is used by K-12 and STEM faculty and students globally. By including the MathType plugin in the Froala editor, you get powerful math editing capabilities. Some features are listed below:</p>
+<ul>
+<li>Latex support</li>
+<li>An extensive range of math symbols</li>
+<li>Right to left (RTL) support for languages such as Arabic, Urdu, and Persian</li>
+<li>Chemical symbols and formulas (ChemType)</li>
+<li>Accessibility</li>
+</ul>
+<h3>Can I Track Changes in My Froala Web-Based JavaScript HTML Editor?</h3>
+<p><img class="aligncenter wp-image-44092 size-full" src="https://froala.com/wp-content/uploads/2022/07/Untitled-6.png" alt="Track changes in Froala" width="1688" height="580" srcset="https://froala.com/wp-content/uploads/2022/07/Untitled-6.png 1688w, https://froala.com/wp-content/uploads/2022/07/Untitled-6-300x103.png 300w, https://froala.com/wp-content/uploads/2022/07/Untitled-6-1024x352.png 1024w, https://froala.com/wp-content/uploads/2022/07/Untitled-6-768x264.png 768w, https://froala.com/wp-content/uploads/2022/07/Untitled-6-1536x528.png 1536w" sizes="(max-width: 1688px) 100vw, 1688px" /></p>
+<p>Indeed, yes! At Froala we understand the importance of tracking changes in an editor. There are many times when you type or edit content and want to revert to the original. The <a href="https://froala.com/track-changes-plugin/" target="_blank" rel="noopener">track changes plugin</a> keeps a record of all the changes you make to text, images, styles, tables, lists, and more. You can easily use the track changes toolbar to accept or reject a change. Moreover, you can choose to accept or reject all changes and edits you have made to your content.</p>
+<p>A few features of track changes plugins include:</p>
+<ul>
+<li>Enable or disable track changes</li>
+<li>Show or hide tracked changes</li>
+<li>Track a single change and choose to accept or reject it</li>
+<li>Track all changes and choose to accept or reject all of them</li>
+<li>All images and text additions are highlighted with a yellow color</li>
+<li>Anything you want to delete is highlighted in red color with a strikethrough</li>
+</ul>
+<h3>Can I Generate PDF Files In Froala &#8211; the Best WYSIWYG HTML editor?</h3>
+<p><img class="aligncenter wp-image-44098 size-full" src="https://froala.com/wp-content/uploads/2022/07/Untitled-7.png" alt="Generating pdf in Froala the web-based javascript html editor" width="1722" height="410" srcset="https://froala.com/wp-content/uploads/2022/07/Untitled-7.png 1722w, https://froala.com/wp-content/uploads/2022/07/Untitled-7-300x71.png 300w, https://froala.com/wp-content/uploads/2022/07/Untitled-7-1024x244.png 1024w, https://froala.com/wp-content/uploads/2022/07/Untitled-7-768x183.png 768w, https://froala.com/wp-content/uploads/2022/07/Untitled-7-1536x366.png 1536w" sizes="(max-width: 1722px) 100vw, 1722px" /></p>
+<p>Again yes! The portable document format (PDF) is now one of the universally accepted file formats that allow you to share documents. This is a very convenient and reliable format, as almost every operating system now supports viewers of PDF files on almost all platforms. If you want to generate PDF files in Froala editor, then you can use the <a href="https://froala.com/wysiwyg-editor/examples/export-pdf/" target="_blank" rel="noopener">Export as PDF</a> option through</p>
+<p><code>html2pdf.bundle.js</code>. You can also add a &#8220;Download PDF&#8221; button in the toolbar to give easy and quick access to PDF exporting capabilities.</p>
+<h3>How Do I Embed Rich Content in Froala Rich-Text Editor JS?</h3>
+<p>Froala makes it easy for you to embed rich content in your HTML documents. If you want to add content from Twitter, Facebook, Instagram, or other such social media platforms, then you can use <a href="https://froala.com/wysiwyg-editor/examples/embedly/" target="_blank" rel="noopener">Embed.ly Froala Integration</a>. Froala fully supports Embed.ly, which is one of the best services for incorporating rich content. Go ahead; integrate this third-party plugin and be on your way to creating awesome content!</p>
+<h2>Are There More Froala Features That Add Value to My Website HTML Editor?</h2>
+<p>Yes, of course! When you use Froala, you get the <a href="https://froala.com/blog/general/why-we-love-javascript-web-editor-and-you-should-too/" target="_blank" rel="noopener">best rich text editing experience</a>. There are more plugins that help you extend its functionality. To enable a clean and simple interface, you can stick to the basic editing features and add only the components you need. Besides the capabilities discussed earlier, here are a few more plugins that you can use and increase productivity.</p>
+<ul>
+<li><a href="https://froala.com/wysiwyg-editor/examples/character-counter/" target="_blank" rel="noopener">Character counter</a>: Displays the total characters typed by a user. You can also add an upper limit to restrict the user from exceeding a predefined length of text.</li>
+<li><a href="https://froala.com/wysiwyg-editor/examples/tribute-js/" target="_blank" rel="noopener">Mentions</a>: You can display an auto-complete list when the user types an <code>@</code> character.</li>
+<li><a href="https://froala.com/wysiwyg-editor/examples/web-spell-checker/" target="_blank" rel="noopener">Spelling and grammar</a>: You see the issues with grammar and spelling in real-time as you type text in the editor window.</li>
+<li><a href="https://froala.com/wysiwyg-editor/examples/font-awesome/" target="_blank" rel="noopener">Font awesome</a>: Make your content interesting and engaging by adding any of the font awesome icons to your HTML documents.</li>
+<li><a href="https://froala.com/wysiwyg-editor/examples/quick-insert/" target="_blank" rel="noopener">Quick insert</a>: Enables you to create a quick insert menu of buttons that you use frequently. As soon as you focus on an empty line, this menu appears.</li>
+</ul>
+<h2>How Do I Sign Up for Froala?</h2>
+<p>Froala is the <a href="https://froala.com/blog/editor/how-to-outsmart-your-peers-on-html-editor/" target="_blank" rel="noopener">best WYSIWYG HTML editor</a>. If you are looking to create beautiful and elegant web pages, then Froala web-based JavaScript HTML editor is your best bet. With beautiful color schemes, awesome fonts, great layouts, and more, Froala is the number one choice of many webpage designers and developers. Moreover, the options to extend its functionality with spell checker, quick insert, PDF export, real-time collaboration, and much more increase productivity and bring more value to your business.</p>
+<p>Wait no more! <a href="https://froala.com/wysiwyg-editor/download/" target="_blank" rel="noopener">Sign up for your free Froala trial today and make the most of your rich text editing experience.</a></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/how-to-improve-productivity-with-your-web-based-javascript-html-editor/">How To Improve Productivity With Your Web-Based JavaScript HTML Editor?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/editor/how-to-improve-productivity-with-your-web-based-javascript-html-editor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">44077</post-id>	</item>
+		<item>
+		<title>How To Upload Files In Your CSS Rich Text Editor?</title>
+		<link>https://froala.com/blog/editor/how-to-upload-files-in-your-css-rich-text-editor/</link>
+					<comments>https://froala.com/blog/editor/how-to-upload-files-in-your-css-rich-text-editor/?noamp=mobile#respond</comments>
+		
+		<dc:creator><![CDATA[Mehreen Saeed]]></dc:creator>
+		<pubDate>Thu, 21 Jul 2022 15:00:47 +0000</pubDate>
+				<category><![CDATA[Editor]]></category>
+		<category><![CDATA[CSS rich text editor]]></category>
+		<category><![CDATA[file upload]]></category>
+		<category><![CDATA[file upload plugin]]></category>
+		<category><![CDATA[Froala CSS rich text editor]]></category>
+		<category><![CDATA[Froala WYSIWYG editor]]></category>
+		<guid isPermaLink="false">https://froala.com/?p=43778</guid>
+
+					<description><![CDATA[<p>Are you looking for a CSS rich text editor? Do you want to create HTML documents fast? Are you tired of typing HTML and want an easy-to-use interface for creating HTML content? If you answered &#8220;yes&#8221; to any of the above questions, then look no more. We have the perfect solution for you in terms [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/how-to-upload-files-in-your-css-rich-text-editor/">How To Upload Files In Your CSS Rich Text Editor?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Are you looking for a CSS rich text editor? Do you want to create HTML documents fast? Are you tired of typing HTML and want an easy-to-use interface for creating HTML content? If you answered &#8220;yes&#8221; to any of the above questions, then look no more. We have the perfect solution for you in terms of Froala &#8211; the CSS rich text editor.</p>
+<p>Froala is a WYSIWYG <a href="https://froala.com/wysiwyg-editor/" target="_blank" rel="noopener">rich text editor CSS</a>. It empowers you to create and edit HTML documents using a word-processor-like interface. With a clean design and a modular structure, Froala is extremely easy to use. Moreover, Froala is lightweight and blazing fast. The editor itself is 100% customizable with a wide variety of <a href="https://froala.com/wysiwyg-editor/docs/plugins/">plugins</a>. For example, you can add a character counter, Markdown support, advanced table editing options, paragraph styling, and more to the editor. Additionally, there is even a plugin for file uploads.</p>
+<p>The Froala <a href="https://froala.com/blog/editor/how-to-add-a-text-editor-in-an-html-form/" target="_blank" rel="noopener">website HTML editor</a> enables users to <a href="https://froala.com/blog/editor/how-to-insert-images-using-javascript-editor/" target="_blank" rel="noopener">add images</a>, videos, audio files, and more to their HTML content. All they have to do is upload the file right there in the editor&#8217;s interface. Continue reading to discover all about file uploads in Froala.</p>
+<h2>How Does File Upload Work In Froala CSS Rich Text Editor?</h2>
+<p>If you are using the Froala editor in the test phase, then the Froala editor stores all uploaded files to a temporary blob in the browser. Once you integrate the editor in your app or on your website, then you can upload the file directly to a server of your choice. This scheme has several benefits. For example, you get full control of the file. The second and most important factor is privacy, which enables you to keep your users&#8217; data private.</p>
+<h2>What Is The File Plugin In Froala?</h2>
+<p><img class="aligncenter wp-image-43848 size-full" src="https://froala.com/wp-content/uploads/2022/07/fileuploadFroala.png" alt="File upload in Froala CSS rich text editor" width="1838" height="544" srcset="https://froala.com/wp-content/uploads/2022/07/fileuploadFroala.png 1838w, https://froala.com/wp-content/uploads/2022/07/fileuploadFroala-300x89.png 300w, https://froala.com/wp-content/uploads/2022/07/fileuploadFroala-1024x303.png 1024w, https://froala.com/wp-content/uploads/2022/07/fileuploadFroala-768x227.png 768w, https://froala.com/wp-content/uploads/2022/07/fileuploadFroala-1536x455.png 1536w" sizes="(max-width: 1838px) 100vw, 1838px" /></p>
+<p>With the <a href="https://froala.com/file-plugin/" target="_blank" rel="noopener">File plugin</a>, you can upload any type of file or special link to the Froala rich text editor. Users can then later download these files at their convenience. There are two main options for file upload. You can either drag and drop the file for uploading or you can use the specifically designed popup for this purpose.</p>
+<h2>What Is The Step By Step File Upload Process In Froala CSS Rich Text Editor?</h2>
+<p>The <a href="https://froala.com/wysiwyg-editor/docs/concepts/file/upload/" target="_blank" rel="noopener">file upload process</a> is very simple in Froala. It is described next.</p>
+<h3>1. Which Plugin Should I Include In The CSS Rich Text Editor?</h3>
+<p>Uploading files to Froala is easy. All you have to do is include the <code>file.min.js</code> plugin in your code. This plugin has great features for uploading and handling files.</p>
+<h3>2. What Are The Froala Editor&#8217;s File Options?</h3>
+<p>Froala has great options for customizability. The <code>file.min.js</code> plugin provides you with six options that you can customize.</p>
+<ol>
+<li><code>fileUploadParam</code>: The default value is <code>file</code>, however, you can change it to a name that suits you. This is the name of the parameter that contains all the file information.</li>
+<li><code>fileUploadURL</code>: This parameter contains a URL. It specifies the URL where the upload request is made.</li>
+<li><code>fileUploadParams</code>: It contains the additional parameters that are passed to the server when the upload request is made.</li>
+<li><code>fileUploadMethod</code>: This is the HTTP request type.</li>
+<li><code>fileMaxSize</code> : This is the maximum file size that a user can upload.</li>
+<li><code>fileAllowedTypes</code>: The types of files allowed for upload. You can specify them using an array. This option helps you restrict your users to upload only a specific set of files.</li>
+</ol>
+<h3>3. What Are The Events Related To File Upload Process In Froala CSS Rich Text Editor?</h3>
+<p>There are four events that you can handle when integrating Froala on your website or in your app. Once you upload a file to the server, it is inserted in the editor. Froala gives you full control over this process. It enables you to handle events before the upload to the server, right after upload and before insertion in the editor, and after insertion in the editor.</p>
+<ol>
+<li><code>file.beforeUpload</code>: This event fires right before the upload request. You can use it to change the upload parameters or cancel the upload entirely.</li>
+<li><code>file.uploaded</code>: This event fires after a file is successfully uploaded to the server. However, at this point, the editor has still not inserted the file.</li>
+<li><code>file.inserted</code> : This event is triggered after a file is inserted in the Froala CSS rich text editor.</li>
+<li><code>file.error</code>: If an error occurs during file upload or file insertion in Froala, then this event fires.</li>
+</ol>
+<h3>4. What Happens After A User Inserts A File In Froala CSS Rich Text Editor JS?</h3>
+<p>When a user uploads a file to Froala WYSIWYG JavaScript editor, the editor automatically sends an HTTP request to the server.</p>
+<h3>5. What Does The Server Return After Processing The HTTP Request?</h3>
+<p>Once the server processes the file upload request, it constructs a JSON object. This JSON contains the link to the uploaded file in the following format:</p>
+<p><code>{"link": "path/to/file.png"}</code></p>
+<h3>6. What Happens After The Server Uploads The File?</h3>
+<p>After the server uploads the file and returns a URL for this file, the editor uploads the file. If there are any errors, then the <code>file.error</code> event is triggered. An error can indicate that the hashmap does not follow the right structure. It can also indicate other errors related to file upload. For example, invalid file type, file size too large, parsing response failed, or more.</p>
+<h2>How Do I Sign Up For Froala CSS Rich Text Editor?</h2>
+<p>Froala is the best WYSIWYG HTML editor. If you explore the market, you will not find an editor that matches all of Froala&#8217;s features. As a testament to its popularity, you can check out Froala&#8217;s <a href="https://froala.com/wysiwyg-editor/customers/" target="_blank" rel="noopener">large customer base</a>. It includes big multinationals like IBM, Samsung, eBay, Intel, and more. Moreover, you can check out the unbiased user reviews on G2.com. There you&#8217;ll find that Froala is a leader in terms of many capabilities. For example, Froala is unbeatable in terms of market presence, customer satisfaction, ease of use, and more. No wonder Froala is the <a href="https://froala.com/blog/general/why-we-love-javascript-web-editor-and-you-should-too/" target="_blank" rel="noopener">favorite editor</a> of all individual and enterprise users.</p>
+<p>What are you waiting for? Take your rich text editing capabilities to a whole new level. <a href="https://froala.com/wysiwyg-editor/download/" target="_blank" rel="noopener">Sign up for your free trial of the Froala CSS rich text editor.</a></p>
+<p>The post <a rel="nofollow" href="https://froala.com/blog/editor/how-to-upload-files-in-your-css-rich-text-editor/">How To Upload Files In Your CSS Rich Text Editor?</a> appeared first on <a rel="nofollow" href="https://froala.com">Froala</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://froala.com/blog/editor/how-to-upload-files-in-your-css-rich-text-editor/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">43778</post-id>	</item>
+	</channel>
+</rss>
